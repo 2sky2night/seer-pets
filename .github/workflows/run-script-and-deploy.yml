@@ -41,8 +41,8 @@ jobs:
     - name: 将输出代码自动提交到仓库
       run: |
         git add .  # 添加文件到暂存区
-        git commit -m "Automated commit: Copy file to repository"  # 提交更改
-        git push origin dev  # 推送更改到仓库（注意这里是dev分支）
+        git commit -m "Automated commit: Copy file to repository"
+        git push origin $GITHUB_REF
       
     - name: 安装seer-pets-website依赖并打包前端项目
       run: |
