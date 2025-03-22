@@ -1,0 +1,21 @@
+on: push
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: 部署到 GitHub Pages
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 制定node版本
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22.12.0'
+
+    - name: 拉取仓库代码
+      uses: actions/checkout@v4
+
+    - name: 安装seer-pets-website依赖
+      run: cd ./seer-pets-website && npm install
