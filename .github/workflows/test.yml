@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 制定node版本
+    - name: 指定node版本
       uses: actions/setup-node@v4
       with:
         node-version: '22.12.0'
@@ -22,4 +22,9 @@ jobs:
 
     - name: 安装task_get_pets依赖
       run: cd ./task_get_pets && npm install
-
+    
+    - name: 打包并执行脚本输出精灵数据文件
+      run: |
+        cd ./task_get_pets
+        npm run build
+        node ./dist/index.js
