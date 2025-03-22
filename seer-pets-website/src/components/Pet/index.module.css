@@ -1,0 +1,36 @@
+.petContainer{
+  display: flex;
+  width: 120px;
+  height: 150px;
+  flex-direction: column;
+  text-decoration: none;
+  color:#000;
+  margin: 5px 0;
+  margin-right: 15px;
+  align-items: center;
+  background: #013e6d;
+  border: 1px solid #92c7ea;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.petPhoto{
+  padding-top: 5px;
+  box-sizing: border-box;
+  width: 100px;
+  height: 120px;
+  -webkit-user-drag: none;
+}
+
+.petName {
+  width:100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 30px;
+  font-size: 13px;
+  color:#013e6d;
+  background-color: #ccedfd;
+  line-height: 30px;
+  text-align: center;
+}
