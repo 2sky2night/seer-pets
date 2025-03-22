@@ -17,9 +17,6 @@ jobs:
     - name: 拉取仓库代码
       uses: actions/checkout@v4
 
-    - name: 安装seer-pets-website依赖
-      run: cd ./seer-pets-website && npm install
-
     - name: 安装task-get-pets依赖
       run: cd ./task-get-pets && npm install
     
@@ -28,3 +25,9 @@ jobs:
         cd ./task-get-pets
         npm run build
         node ./dist/index.js
+    
+    - name: 将输出文件复制到前端目录中并提交代码
+      run: |
+        cd ./task-get-pets
+        cp ./dist/pets.json ../seer-pets-website/src/assets/pets.json
+
