@@ -44,3 +44,14 @@ jobs:
         git commit -m "Automated commit: Copy file to repository"  # 提交更改
         git push origin dev  # 推送更改到仓库（注意这里是dev分支）
       
+    - name: 安装seer-pets-website依赖并打包前端项目
+      run: |
+        cd ./seer-pets-website
+        npm install
+        npm run build
+
+    - name: 部署到github-page上🚀
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        BRANCH: gh-pages # 把打包后的文件部署到gh-pages分支，记得开启github-page
+        FOLDER: seer-pets-website/dist # 这里需要制定，项目打包后的文件夹
