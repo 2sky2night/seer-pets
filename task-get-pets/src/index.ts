@@ -104,10 +104,13 @@ function outputPets(pets: IPet[]) {
       mkdirSync(staticPath);
     }
     const outputPath = path.resolve(staticPath, "pets.json");
-    outputByJSONFile({ data: {
-      pets,
-      timestamp:Date.now(), // 为了内容无变更导致的提交失败，这里做了时间戳对比
-    }, path: outputPath });
+    outputByJSONFile({
+      data: {
+        pets,
+        timestamp: Date.now(), // 为了内容无变更导致的提交失败，这里做了时间戳对比
+      },
+      path: outputPath,
+    });
     logger.info("精灵数据已输出到路径成功");
   } catch (error) {
     logger.error("精灵数据输出失败: " + jsonSafeStringify(error));
