@@ -19,3 +19,7 @@ jobs:
 
     - name: 安装seer-pets-website依赖
       run: cd ./seer-pets-website && npm install
+
+    - name: 安装task_get_pets依赖
+      run: cd ./task_get_pets && npm install
+
