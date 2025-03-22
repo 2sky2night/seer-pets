@@ -1,10 +1,10 @@
-.petContainer{
+.petContainer {
   display: flex;
   width: 120px;
   height: 150px;
   flex-direction: column;
   text-decoration: none;
-  color:#000;
+  color: #000;
   margin: 5px 0;
   margin-right: 15px;
   align-items: center;
@@ -14,7 +14,7 @@
   overflow: hidden;
 }
 
-.petPhoto{
+.petPhoto {
   padding-top: 5px;
   box-sizing: border-box;
   width: 100px;
@@ -23,13 +23,13 @@
 }
 
 .petName {
-  width:100%;
+  width: 100%;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   height: 30px;
   font-size: 13px;
-  color:#013e6d;
+  color: #013e6d;
   background-color: #ccedfd;
   line-height: 30px;
   text-align: center;

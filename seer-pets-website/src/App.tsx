@@ -1,10 +1,8 @@
-import './App.css'
-import PetsSearch from './components/PetsSearch'
+import "./App.css";
+import PetsSearch from "./components/PetsSearch";
 
 function App() {
-  return (
-    <PetsSearch/>
-  )
+  return <PetsSearch />;
 }
 
-export default App
+export default App;
