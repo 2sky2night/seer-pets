@@ -20,11 +20,11 @@ jobs:
     - name: 安装seer-pets-website依赖
       run: cd ./seer-pets-website && npm install
 
-    - name: 安装task_get_pets依赖
-      run: cd ./task_get_pets && npm install
+    - name: 安装task-get-pets依赖
+      run: cd ./task-get-pets && npm install
     
     - name: 打包并执行脚本输出精灵数据文件
       run: |
-        cd ./task_get_pets
+        cd ./task-get-pets
         npm run build
         node ./dist/index.js
