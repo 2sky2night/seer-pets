@@ -25,19 +25,22 @@ jobs:
         cd ./task-get-pets
         npm run build
         node ./dist/index.js
+        cd ./dist/static && ls
     
     - name: 将输出文件复制到前端目录中
       run: |
         cd ./task-get-pets
         cp ./dist/static/pets.json ../seer-pets-website/src/assets/pets.json
+        cd ../seer-pets-website/src/assets && ls
 
     - name: 配置 Git 用户信息
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Commit changes
+    - name: 将输出代码自动提交到仓库
       run: |
         git add .  # 添加文件到暂存区
         git commit -m "Automated commit: Copy file to repository"  # 提交更改
         git push origin dev  # 推送更改到仓库（注意这里是dev分支）
+      
