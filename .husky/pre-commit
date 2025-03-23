@@ -1,0 +1,4 @@
+# seer-pets-website
+
+cd ./seer-pets-website
+npx lint-staged
