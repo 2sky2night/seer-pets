@@ -4,7 +4,7 @@ import styles from "./index.module.less";
 import { fetchPets } from "../../models";
 import Pet from "../Pet";
 import { IPets } from "../../types";
-import { Card, Pagination } from "antd";
+import { Card, Empty, Pagination } from "antd";
 
 const PetsSearch: FC = () => {
   const [total, setTotal] = useState(0);
@@ -13,6 +13,7 @@ const PetsSearch: FC = () => {
       idOrder: "asc",
       page: 1,
       pageSize: 30,
+      keywords: "",
     },
   );
   const [pets, setPets] = useState<IPets>([]);
@@ -22,6 +23,7 @@ const PetsSearch: FC = () => {
       ...searchForm,
       page: 1, // 页码置为1
       idOrder: form.idOrder,
+      keywords: form.keywords,
     });
   };
   const handlePageChange = (page: number) => {
@@ -50,11 +52,17 @@ const PetsSearch: FC = () => {
     <div className={styles.petsSearchContainer}>
       <PetsSearchForm onFinish={handleSearchSubmit}></PetsSearchForm>
       <Card>
-        <div className={styles.petsList}>
-          {pets.map((pet) => (
-            <Pet key={pet.detailUrl} {...pet} />
-          ))}
-        </div>
+        {pets.length ? (
+          <div className={styles.petsList}>
+            {pets.map((pet) => (
+              <Pet key={pet.detailUrl} {...pet} />
+            ))}
+          </div>
+        ) : (
+          <div className={styles.petsResultEmpty}>
+            <Empty description="暂无数据"></Empty>
+          </div>
+        )}
         <div className={styles.petsPagenation}>
           <Pagination
             size="small"

@@ -33,8 +33,10 @@ export const getPetsOrderByIdCache = (() => {
 export function fetchPets(
   params: ISearchField & { page: number; pageSize: number },
 ) {
-  const { idOrder, page, pageSize } = params;
-  const result = getPetsOrderByIdCache(idOrder);
+  const { idOrder, page, pageSize, keywords = "" } = params;
+  const result = getPetsOrderByIdCache(idOrder).filter((pet) => {
+    return pet.name.includes(keywords);
+  });
   const start = (page - 1) * pageSize;
   const end = page * pageSize;
   const hasMore = end > result.length;

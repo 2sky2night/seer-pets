@@ -1,10 +1,13 @@
 import type { FC } from "react";
-import { Button, Card, Form, Select } from "antd";
+import { Button, Card, Form, Input, Select } from "antd";
 import styles from "./index.module.less";
 import type { IOrder } from "../../types";
 
 export type ISearchField = {
+  /** id 排序 */
   idOrder: IOrder;
+  /** 搜索关键词 */
+  keywords: string;
 };
 
 interface IProps {
@@ -29,6 +32,9 @@ const PetsSearchForm: FC<IProps> = (props) => {
               <Select.Option value="asc">升序</Select.Option>
               <Select.Option value="des">降序</Select.Option>
             </Select>
+          </Form.Item>
+          <Form.Item tooltip="仅限关键字搜索" label="搜索" name="keywords">
+            <Input></Input>
           </Form.Item>
           <div className={styles.submitAction}>
             <Button type="primary" htmlType="submit">
