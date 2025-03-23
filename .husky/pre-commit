@@ -2,3 +2,5 @@
 
 cd ./seer-pets-website
 npx lint-staged
+
+# task-get-pets
