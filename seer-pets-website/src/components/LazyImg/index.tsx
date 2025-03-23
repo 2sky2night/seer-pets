@@ -20,6 +20,7 @@ const LazyImg: FC<
     return () => {
       if (inst) inst.disconnect();
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   return <img {...restProps} ref={imgRef} src={currentSrc} />;
 };

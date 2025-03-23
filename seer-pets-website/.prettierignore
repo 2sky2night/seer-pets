@@ -6,3 +6,5 @@ coverage
 **/node_modules
 package.json
 pnpm-lock.yaml
+pets.json
+.lintstagedrc
