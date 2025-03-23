@@ -1,6 +1,6 @@
 import type { FC } from "react";
 import type { IPet } from "../../types";
-import styles from "./index.module.css";
+import styles from "./index.module.less";
 import LazyImg from "../LazyImg";
 
 const Pet: FC<IPet> = (props) => {

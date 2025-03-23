@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, type FC } from "react";
-import styles from "./index.module.css";
+import styles from "./index.module.less";
 
 import { pets as AllPets } from "../../assets/pets.json";
 import { debounce } from "lodash";
