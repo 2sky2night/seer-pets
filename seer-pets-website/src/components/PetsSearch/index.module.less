@@ -5,6 +5,35 @@
   display: grid;
   grid-template-columns: repeat(10, 1fr);
 }
+@media screen and (max-width: 1450px) {
+  .petsList {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .petsList {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .petsList {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .petsList {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .petsList {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 .petsPagenation {
   display: flex;
   padding: 20px 0 10px 0;
@@ -13,5 +42,10 @@
 .petsResultEmpty {
   display: flex;
   padding: 50px 0;
+  justify-content: center;
+}
+
+.petCard {
+  display: flex;
   justify-content: center;
 }

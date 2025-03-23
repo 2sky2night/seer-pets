@@ -55,7 +55,9 @@ const PetsSearch: FC = () => {
         {pets.length ? (
           <div className={styles.petsList}>
             {pets.map((pet) => (
-              <Pet key={pet.detailUrl} {...pet} />
+              <div key={pet.detailUrl} className={styles.petCard}>
+                <Pet {...pet} />
+              </div>
             ))}
           </div>
         ) : (
