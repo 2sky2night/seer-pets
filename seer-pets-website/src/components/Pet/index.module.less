@@ -12,6 +12,13 @@
   border: 1px solid #92c7ea;
   border-radius: 5px;
   overflow: hidden;
+  animation: PetEnter 1 0.5s ease-out;
+  box-shadow: 0 0 10px #00000062;
+  transition: 0.5s;
+
+  &:hover {
+    transform: rotate(2deg) scale(1.2);
+  }
 }
 
 .petPhoto {
@@ -33,4 +40,15 @@
   background-color: #ccedfd;
   line-height: 30px;
   text-align: center;
+}
+
+@keyframes PetEnter {
+  from {
+    opacity: 0.5;
+    transform: translateY(-5px);
+  }
+
+  to {
+    opacity: 1;
+  }
 }
