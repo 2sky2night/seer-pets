@@ -4,7 +4,7 @@ import type { IOrder, IPets } from "../types";
 
 /** 获取精灵根据 id 排序 */
 export function getPetsOrderById(type: IOrder) {
-  return AllPets.sort((aPets, bPets) => {
+  return [...AllPets].sort((aPets, bPets) => {
     const aId = Number(aPets.id);
     const bId = Number(bPets.id);
     if (type === "asc") {
