@@ -7,3 +7,4 @@ coverage
 package.json
 pnpm-lock.yaml
 pets.json
+.lintstagedrc
