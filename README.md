@@ -7,7 +7,7 @@
 
 # 任务1：获取精灵数据
 
-代码位置：task_get_pets
+代码位置：task-get-pets
 
 最终目标：写一段脚本，可以输出所有精灵的json文件
 
@@ -33,6 +33,8 @@
 
 # 任务2：根据精灵数据搭建简易的精灵图鉴网站
 
+代码位置：seer-pets-website
+
 最终目标：
 
 1. 支持搜索
@@ -43,6 +45,8 @@
 # 任务3：github action部署网站
 
 最终目标：
+
+脚本位置：.github\workflows\run-script-and-deploy.yml
 
 1. 部署前端代码（包含精灵的json文件）
 2. github action是否支持定时任务, 定时更新精灵数据
