@@ -1,4 +1,7 @@
-on: push
+on: 
+  push:
+  schedule: # 定时任务
+  - cron: "0 2 * * *" # 每天凌晨 2 点（UTC）时间运行。换算成北京时间实际为 10 点（时差：8小时）
 
 permissions:
   contents: write
