@@ -26,15 +26,21 @@ const PetsSearch: FC = () => {
       keywords: form.keywords,
     });
   };
-  const handlePageChange = (page: number) => {
-    // TODO 分页器有问题，onChange无法区分到底是因为页码更新还是页长度更新，先把切换页长度下掉
-    setSearchForm({
-      ...searchForm,
-      page,
-    });
-  };
-  const handlePageSizeChange = (_: number, pageSize: number) => {
-    setSearchForm((data) => Object.assign(data, { pageSize, page: 1 }));
+  const handlePageChange = (page: number, updatePageSize: number) => {
+    if (updatePageSize !== searchForm.pageSize) {
+      // 页长度更新
+      setSearchForm({
+        ...searchForm,
+        page: 1,
+        pageSize: updatePageSize,
+      });
+    } else {
+      // 页码更新
+      setSearchForm({
+        ...searchForm,
+        page,
+      });
+    }
   };
   const handleFetch = () => {
     const result = fetchPets({
@@ -71,10 +77,9 @@ const PetsSearch: FC = () => {
             current={searchForm.page}
             pageSize={searchForm.pageSize}
             onChange={handlePageChange}
-            onShowSizeChange={handlePageSizeChange}
             pageSizeOptions={[10, 30, 50, 100]}
-            showSizeChanger={false}
             total={total}
+            showTotal={(count) => `共 ${count} 项`}
           />
         </div>
       </Card>
