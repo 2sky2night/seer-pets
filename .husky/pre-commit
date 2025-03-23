@@ -1,0 +1,9 @@
+# seer-pets-website
+
+cd ./seer-pets-website
+npx lint-staged
+
+# task-get-pets
+
+cd ../task-get-pets
+npx lint-staged

@@ -1,11 +1,34 @@
-on: push
+on: 
+  push:
+  schedule: # 定时任务
+  - cron: "0 2 * * *" # 每天凌晨 2 点（UTC）时间运行。换算成北京时间实际为 10 点（时差：8小时）
 
 permissions:
   contents: write
 
 jobs:
+  lint:
+    name: 代码检查🦋
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 检查前端项目代码
+        run: |
+          cd ./seer-pets-website
+          npm install
+          npx prettier . --check
+          npm run lint
+
+      - name: 检查脚本项目代码
+        run: |
+          cd ./task-get-pets && npm install
+          npx prettier . --check
+
   build:
-    name: 部署到 GitHub Pages
+    name: 运行脚本并部署到 GitHub Pages🎶
     runs-on: ubuntu-latest
 
     steps:
