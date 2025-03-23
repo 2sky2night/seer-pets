@@ -49,9 +49,9 @@
 
 # 任务3：github action部署网站
 
-最终目标：
-
 脚本位置：.github\workflows\run-script-and-deploy.yml
+
+最终目标：
 
 1. 部署前端代码（包含精灵的json文件）
 2. github action是否支持定时任务, 定时更新精灵数据
