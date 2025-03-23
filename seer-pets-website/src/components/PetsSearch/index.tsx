@@ -6,7 +6,7 @@ import { debounce } from "lodash";
 import Pet from "../Pet";
 
 const pageSize = 80;
-const hh = 50;
+const threshold = 50;
 
 const PetsSearch: FC = () => {
   const [pets, setPets] = useState(AllPets.splice(0, pageSize));
@@ -26,7 +26,7 @@ const PetsSearch: FC = () => {
   useEffect(() => {
     const loadMoreDb = debounce(() => {
       if (
-        document.documentElement.scrollTop + window.innerHeight + hh >=
+        document.documentElement.scrollTop + window.innerHeight + threshold >=
         document.body.scrollHeight
       ) {
         loadMore();
