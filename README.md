@@ -5,6 +5,11 @@
 
 数据从哪儿来？[网站](https://news.4399.com/seer/jinglingdaquan/)上有全量的精灵数据，可以直接下载
 
+# 预览
+
+![image](https://github.com/user-attachments/assets/7140366d-6fb8-4871-8848-060b77ac1b8c)
+
+
 # 任务1：获取精灵数据
 
 代码位置：task_get_pets
