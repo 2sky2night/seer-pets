@@ -7,6 +7,16 @@
 
 # 预览
 
+预览地址：https://2sky2night.github.io/seer-pets/
+
+功能：
+- [x] id排序
+- [x] 关键词搜索
+- [ ] 属性检索
+- [ ] 精灵详情页
+
+截图：
+
 ![image](https://github.com/user-attachments/assets/7140366d-6fb8-4871-8848-060b77ac1b8c)
 
 
