@@ -1,3 +1,6 @@
+/** 排序 */
+export type IOrder = "asc" | "des";
+
 /** 精灵 */
 export interface IPet {
   /**
