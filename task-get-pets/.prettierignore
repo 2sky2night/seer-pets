@@ -8,3 +8,6 @@ package.json
 pnpm-lock.yaml
 pets.json
 .lintstagedrc
+dist
+src/static
+package-lock.json
