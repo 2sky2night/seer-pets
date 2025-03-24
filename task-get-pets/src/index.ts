@@ -128,7 +128,7 @@ function getPetAttributes(dom: JSDOM) {
   const typeMap = {
     "0": "all",
     "1": "singleAttribute",
-    "2": "DoubleAttributes",
+    "2": "doubleAttributes",
   };
   const {
     window: { document },
