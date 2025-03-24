@@ -16,7 +16,7 @@ export interface IPet {
    */
   img: string;
   /**
-   * 精灵详情页id
+   * 精灵属性id
    * @example "2093"
    */
   detailId: string;
