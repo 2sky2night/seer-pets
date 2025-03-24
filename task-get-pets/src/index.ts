@@ -11,6 +11,7 @@ import vm from "vm";
 import { mkdirSync, existsSync } from "node:fs";
 import path from "node:path";
 import { IPet, IPetsRaw } from "./types";
+import { exit } from "node:process";
 
 /** 网站地址 */
 const WEBSITE_URL = "http://news.4399.com/seer/jinglingdaquan/";
@@ -20,30 +21,35 @@ const TIMEOUT = 5000;
 async function main() {
   // 1.下载html
   const [downloadError, htmlString] = await box(
-    fetchWebsite({ url: WEBSITE_URL, timeout: TIMEOUT }),
+    fetchWebsite({ url: WEBSITE_URL, timeout: TIMEOUT, encoding: "gb2312" }),
   );
   if (downloadError || !htmlString) {
     logger.error("下载html数据失败" + jsonSafeStringify(downloadError));
-    return;
+    exit(1);
   }
   // 2.解析html，获取精灵数据
-  const [matchErr, petsRaw] = await box(matchPetsDataFromHtml(htmlString));
+  const dom = new JSDOM(htmlString);
+  await Promise.all([getPetsData(dom), getPetAttributes(dom)]);
+}
+
+main();
+
+/** 解析并整理出精灵数据 */
+async function getPetsData(dom: JSDOM) {
+  const [matchErr, petsRaw] = await box(matchPetsDataFromHtml(dom));
   if (matchErr || !petsRaw) {
     logger.error("解析数据失败" + jsonSafeStringify(matchErr));
-    return;
+    exit(1); // 让脚本报错，工作流就能停止
   }
   // 3.整理精灵数据
   const pets = formatPets(petsRaw);
   // 4.输出精灵数据
   outputPets(pets);
 }
-
-main();
-
 /** 从html字符串中解析出精灵数据 */
-async function matchPetsDataFromHtml(htmlString: string): Promise<IPetsRaw> {
+async function matchPetsDataFromHtml(dom: JSDOM): Promise<IPetsRaw> {
   // 1. 使用 jsdom 加载 HTML
-  const dom = new JSDOM(htmlString);
+  // const dom = new JSDOM(htmlString);
   // 2. 遍历所有 <script> 标签
   const scriptTags = dom.window.document.querySelectorAll("script");
   for (const script of scriptTags) {
@@ -114,5 +120,59 @@ function outputPets(pets: IPet[]) {
     logger.info("精灵数据已输出到路径成功");
   } catch (error) {
     logger.error("精灵数据输出失败: " + jsonSafeStringify(error));
+    exit(1); // 让脚本报错，工作流就能停止
+  }
+}
+/** 解析并整理出属性数据 */
+function getPetAttributes(dom: JSDOM) {
+  const typeMap = {
+    "0": "all",
+    "1": "singleAttribute",
+    "2": "DoubleAttributes",
+  };
+  const {
+    window: { document },
+  } = dom;
+  const tab3 = document.querySelector("ul#tab3"); // ul#tab3 存放属性数据的位置
+  const attributes = Array.from(tab3?.children || []).map((li) => {
+    /** 获取属性id */
+    const [type = "", detailId = ""] = (li.getAttribute?.("rel") || "").split(
+      ",",
+    );
+    const a = li.children?.[0];
+    const img = a.children?.[0];
+    const text = a.childNodes?.[1]?.textContent || "";
+    return {
+      attributeType: typeMap[type as "0" | "1" | "2"],
+      detailId,
+      imgSrc: img.getAttribute?.("src") || "",
+      name: text,
+    };
+  });
+  const isNotValid = attributes.some(
+    (attribute) => !Object.values(attribute).every((value) => value), // 每个 key 都不能为空
+  );
+  if (isNotValid) {
+    logger.error("[getPetAttributes]属性解析有误");
+    exit(1); // 让脚本报错，工作流就能停止
+  }
+  // 输出成文件
+  try {
+    const staticPath = path.resolve(__dirname, "./static");
+    if (!existsSync(staticPath)) {
+      mkdirSync(staticPath);
+    }
+    const outputPath = path.resolve(staticPath, "attributes.json");
+    outputByJSONFile({
+      data: {
+        attributes,
+        timestamp: Date.now(), // 为了内容无变更导致的提交失败，这里做了时间戳对比
+      },
+      path: outputPath,
+    });
+    logger.info("精灵数据已输出到路径成功");
+  } catch (error) {
+    logger.error("精灵数据输出失败: " + jsonSafeStringify(error));
+    exit(1); // 让脚本报错，工作流就能停止
   }
 }

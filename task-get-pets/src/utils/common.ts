@@ -1,6 +1,7 @@
 import { request } from "node:https";
 import { logger } from "./";
 import { writeFileSync } from "node:fs";
+import { decode } from "iconv-lite";
 
 /**
  * 安全的获取Promise的结果，无需try catch
@@ -34,8 +35,14 @@ export function jsonSafeStringify(value: any) {
 }
 
 /** 请求网站数据 */
-export function fetchWebsite(params: { url: string; timeout: number }) {
-  const { url = "", timeout = 3000 } = params || {};
+export function fetchWebsite(params: {
+  url: string;
+  /** @default 3000 */
+  timeout: number;
+  /** @default "utf-8" */
+  encoding?: "utf-8" | "gb2312";
+}) {
+  const { url = "", timeout = 3000, encoding = "utf-8" } = params || {};
   const urlInst = new URL(url);
   let fetchPromiseInnerResolve: (value: string) => void;
   let fetchPromiseInnerReject: (reason?: any) => void;
@@ -63,10 +70,12 @@ export function fetchWebsite(params: { url: string; timeout: number }) {
       },
     },
     (res) => {
-      const chunks: Buffer[] = [];
-      res.on("data", (chunk) => chunks.push(chunk));
+      let result = "";
+      res.on("data", (chunk) => {
+        const str = decode(chunk, encoding); // 使用原始 Buffer 数据进行解码
+        result += str;
+      });
       res.on("end", () => {
-        const result = Buffer.concat(chunks).toString();
         fetchPromiseInnerResolve(result);
       });
       res.on("error", (err) => {
