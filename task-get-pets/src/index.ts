@@ -170,9 +170,12 @@ function getPetAttributes(dom: JSDOM) {
       },
       path: outputPath,
     });
-    logger.info("精灵数据已输出到路径成功");
+    logger.info(
+      "精灵属性数据已输出到路径成功" +
+        jsonSafeStringify({ length: attributes.length }),
+    );
   } catch (error) {
-    logger.error("精灵数据输出失败: " + jsonSafeStringify(error));
+    logger.error("精灵属性数据输出失败: " + jsonSafeStringify(error));
     exit(1); // 让脚本报错，工作流就能停止
   }
 }
