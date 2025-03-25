@@ -49,6 +49,14 @@ const PetsSearch: FC = () => {
     setPets(result.list);
     setTotal(result.total);
   };
+  const handleSearchReset = () => {
+    setSearchForm({
+      idOrder: "asc",
+      page: 1,
+      pageSize: 30,
+      keywords: "",
+    });
+  };
 
   useEffect(() => {
     handleFetch();
@@ -56,7 +64,10 @@ const PetsSearch: FC = () => {
 
   return (
     <div className={styles.petsSearchContainer}>
-      <PetsSearchForm onFinish={handleSearchSubmit}></PetsSearchForm>
+      <PetsSearchForm
+        onFinish={handleSearchSubmit}
+        onReset={handleSearchReset}
+      />
       <Card>
         {pets.length ? (
           <div className={styles.petsList}>
