@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "幽阑·执冥",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002065.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2503/261431243433.jpg",
+      "detailId": "2436",
+      "keywords": "Y",
+      "id": "4740",
+      "attribute": "暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002062.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "崔尔特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002064.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2503/261430532008.jpg",
+      "detailId": "6408",
+      "keywords": "C",
+      "id": "4741",
+      "attribute": "电暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002061.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "驭火·迪尔克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002063.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2503/2614301J294.jpg",
+      "detailId": "2089",
+      "keywords": "Y",
+      "id": "4742",
+      "attribute": "火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002060.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "绮芒·蝠迪",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1001822.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2503/1Q409205X8.jpg",
@@ -8,9 +44,9 @@
       "keywords": "Q",
       "id": "4738",
       "attribute": "飞行",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "天翔追闪",
       "source": "http://news.4399.com/seer/zenmezhua/202503-18-1001824.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "绒霜·柯蓝",
@@ -20,9 +56,9 @@
       "keywords": "R",
       "id": "4739",
       "attribute": "冰雪",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "极冰影闪",
       "source": "http://news.4399.com/seer/zenmezhua/202503-18-1001823.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "霆流·希拉",
@@ -39841,5 +39877,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1742957932417
+  "timestamp": 1743044357610
 }
