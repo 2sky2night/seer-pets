@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "星光·纳多雷",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002423.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/031K0424K5.jpg",
+      "detailId": "2094",
+      "keywords": "X",
+      "id": "4743",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002427.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "皎梦·悠悠",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002422.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/031K0093P0.jpg",
+      "detailId": "2432",
+      "keywords": "J",
+      "id": "4744",
+      "attribute": "普通",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002426.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "阿尔忒弥斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002421.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/031J9445346.jpg",
+      "detailId": "3035",
+      "keywords": "A",
+      "id": "4745",
+      "attribute": "草战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002425.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "幽阑·执冥",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002065.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2503/261431243433.jpg",
@@ -8,9 +44,9 @@
       "keywords": "Y",
       "id": "4740",
       "attribute": "暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "黑暗五芒星",
       "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002062.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "崔尔特",
@@ -20,9 +56,9 @@
       "keywords": "C",
       "id": "4741",
       "attribute": "电暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "虚势攻心阵",
       "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002061.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "驭火·迪尔克",
@@ -32,9 +68,9 @@
       "keywords": "Y",
       "id": "4742",
       "attribute": "火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "爆炎浴火击",
       "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002060.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "绮芒·蝠迪",
@@ -39877,5 +39913,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1743649198311
+  "timestamp": 1743735614808
 }
