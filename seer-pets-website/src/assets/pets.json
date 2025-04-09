@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "王之查尔顿",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002477.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/0Q63F15523.jpg",
+      "detailId": "2434",
+      "keywords": "W",
+      "id": "4746",
+      "attribute": "战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-08-1002479.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "圣颖",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002476.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/0Q636206414.jpg",
+      "detailId": "77776",
+      "keywords": "S",
+      "id": "4747",
+      "attribute": "圣灵光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-08-1002478.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "星光·纳多雷",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002423.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2504/031K0424K5.jpg",
@@ -8,9 +32,9 @@
       "keywords": "X",
       "id": "4743",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "五彩芒星",
       "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002427.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "皎梦·悠悠",
@@ -20,9 +44,9 @@
       "keywords": "J",
       "id": "4744",
       "attribute": "普通",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "五彩芒星",
       "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002426.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "阿尔忒弥斯",
@@ -32,9 +56,9 @@
       "keywords": "A",
       "id": "4745",
       "attribute": "草战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "挽风游天歌",
       "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002425.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "幽阑·执冥",
@@ -39913,5 +39937,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1744081240647
+  "timestamp": 1744167722326
 }
