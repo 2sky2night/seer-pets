@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "超算鲁比克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002839.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/1513544J516.jpg",
+      "detailId": "2090",
+      "keywords": "C",
+      "id": "4748",
+      "attribute": "机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-15-1002840.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "王之查尔顿",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002477.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2504/0Q63F15523.jpg",
@@ -8,9 +20,9 @@
       "keywords": "W",
       "id": "4746",
       "attribute": "战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "凶猛盛威决",
       "source": "http://news.4399.com/seer/zenmezhua/202504-08-1002479.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "圣颖",
@@ -20,9 +32,9 @@
       "keywords": "S",
       "id": "4747",
       "attribute": "圣灵光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "圣灵光明阵",
       "source": "http://news.4399.com/seer/zenmezhua/202504-08-1002478.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "星光·纳多雷",
@@ -39937,5 +39949,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1744686357831
+  "timestamp": 1744772728675
 }
