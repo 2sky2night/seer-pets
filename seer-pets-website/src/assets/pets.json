@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "对神兵器肯扎特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003032.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/22135UJ937.jpg",
+      "detailId": "96545",
+      "keywords": "D",
+      "id": "4749",
+      "attribute": "机械战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003029.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "云境归真·始祖灵兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003031.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/22135S03V4.jpg",
+      "detailId": "2093",
+      "keywords": "Y",
+      "id": "4750",
+      "attribute": "草",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003028.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "珀瑞涅",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003030.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/22135KO248.jpg",
+      "detailId": "88028",
+      "keywords": "P",
+      "id": "4751",
+      "attribute": "圣灵超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003027.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "超算鲁比克",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002839.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2504/1513544J516.jpg",
@@ -8,9 +44,9 @@
       "keywords": "C",
       "id": "4748",
       "attribute": "机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "多彩宏光",
       "source": "http://news.4399.com/seer/zenmezhua/202504-15-1002840.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "王之查尔顿",
@@ -39949,5 +39985,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1745291041141
+  "timestamp": 1745377502854
 }
