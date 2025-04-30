@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "镇魂约凡撒",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003245.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/291356443426.jpg",
+      "detailId": "2091",
+      "keywords": "Z",
+      "id": "4752",
+      "attribute": "水",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-29-1003244.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "对神兵器肯扎特",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003032.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2504/22135UJ937.jpg",
@@ -8,9 +20,9 @@
       "keywords": "D",
       "id": "4749",
       "attribute": "机械战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "最终协议·耀变",
       "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003029.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "云境归真·始祖灵兽",
@@ -20,9 +32,9 @@
       "keywords": "Y",
       "id": "4750",
       "attribute": "草",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "始祖清心诀",
       "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003028.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "珀瑞涅",
@@ -32,9 +44,9 @@
       "keywords": "P",
       "id": "4751",
       "attribute": "圣灵超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "神工委人评",
       "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003027.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "超算鲁比克",
@@ -39985,5 +39997,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1745896013952
+  "timestamp": 1745982399801
 }
