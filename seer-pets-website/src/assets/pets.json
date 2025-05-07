@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "命运玛酷索",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003410.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/0F92Ja058.jpg",
+      "detailId": "2822",
+      "keywords": "M",
+      "id": "4753",
+      "attribute": "飞行超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-07-1003412.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "雷弧",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003409.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/0F92H03093.jpg",
+      "detailId": "34664",
+      "keywords": "L",
+      "id": "4754",
+      "attribute": "电龙",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-07-1003411.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "镇魂约凡撒",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003245.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2504/291356443426.jpg",
@@ -8,9 +32,9 @@
       "keywords": "Z",
       "id": "4752",
       "attribute": "水",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "幽波绝凝枪",
       "source": "http://news.4399.com/seer/zenmezhua/202504-29-1003244.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "对神兵器肯扎特",
@@ -39997,5 +40021,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1746500955283
+  "timestamp": 1746587446821
 }
