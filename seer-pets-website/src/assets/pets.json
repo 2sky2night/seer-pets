@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "梦魇尼斯克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003607.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/141504051C3.jpg",
+      "detailId": "2824",
+      "keywords": "M",
+      "id": "4755",
+      "attribute": "水暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-14-1003606.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "命运玛酷索",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003410.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2505/0F92Ja058.jpg",
@@ -8,9 +20,9 @@
       "keywords": "M",
       "id": "4753",
       "attribute": "飞行超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "无悔之落日",
       "source": "http://news.4399.com/seer/zenmezhua/202505-07-1003412.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "雷弧",
@@ -20,9 +32,9 @@
       "keywords": "L",
       "id": "4754",
       "attribute": "电龙",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "飞龙雷弧爪",
       "source": "http://news.4399.com/seer/zenmezhua/202505-07-1003411.html",
-      "raceValue": "暂无资料"
+      "raceValue": "715"
     },
     {
       "name": "镇魂约凡撒",
@@ -40021,5 +40033,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1747192270922
+  "timestamp": 1747278641599
 }
