@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "梦魇塔奇拉顿",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003770.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/201JK1b44.jpg",
+      "detailId": "2991",
+      "keywords": "M",
+      "id": "4756",
+      "attribute": "地暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-20-1003771.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "梦魇尼斯克",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003607.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2505/141504051C3.jpg",
@@ -8,9 +20,9 @@
       "keywords": "M",
       "id": "4755",
       "attribute": "水暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "破灭骇浪",
       "source": "http://news.4399.com/seer/zenmezhua/202505-14-1003606.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "命运玛酷索",
@@ -40033,5 +40045,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1747710793743
+  "timestamp": 1747797162191
 }
