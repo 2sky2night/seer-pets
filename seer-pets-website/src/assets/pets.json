@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "神裁·雷伊",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004036.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102SK638.jpg",
+      "detailId": "2095",
+      "keywords": "S",
+      "id": "4757",
+      "attribute": "电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004032.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "神决·盖亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004035.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102PN1I.jpg",
+      "detailId": "2434",
+      "keywords": "S",
+      "id": "4758",
+      "attribute": "战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004031.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "赫蒂洛斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004034.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102J04631.jpg",
+      "detailId": "108789",
+      "keywords": "H",
+      "id": "4759",
+      "attribute": "机械火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004030.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "嗒啦啦",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004033.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102G44222.jpg",
+      "detailId": "32856",
+      "keywords": "D",
+      "id": "4760",
+      "attribute": "光次元",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004029.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "梦魇塔奇拉顿",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003770.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2505/201JK1b44.jpg",
@@ -8,9 +56,9 @@
       "keywords": "M",
       "id": "4756",
       "attribute": "地暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "硬化冲烈破",
       "source": "http://news.4399.com/seer/zenmezhua/202505-20-1003771.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "梦魇尼斯克",
@@ -40045,5 +40093,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1748402063391
+  "timestamp": 1748488475442
 }
