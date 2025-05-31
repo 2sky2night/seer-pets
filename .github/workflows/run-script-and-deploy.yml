@@ -50,10 +50,16 @@ jobs:
         node ./dist/index.js
         cd ./dist/static && ls
     
-    - name: 将输出文件复制到前端目录中
+    - name: 将精灵图鉴输出文件复制到前端目录中
       run: |
         cd ./task-get-pets
         cp ./dist/static/pets.json ../seer-pets-website/src/assets/pets.json
+        cd ../seer-pets-website/src/assets && ls
+
+    - name: 将精灵属性图鉴输出文件复制到前端目录中
+      run: |
+        cd ./task-get-pets
+        cp ./dist/static/attributes.json ../seer-pets-website/src/assets/attributes.json
         cd ../seer-pets-website/src/assets && ls
 
     - name: 配置 Git 用户信息
