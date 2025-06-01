@@ -2,12 +2,15 @@ import type { FC } from "react";
 import { Button, Card, Form, Input, Select, Space } from "antd";
 import styles from "./index.module.less";
 import type { IOrder } from "../../types";
+import { PetsAttributes } from "../PetsAttributes";
 
 export type ISearchField = {
   /** id 排序 */
   idOrder: IOrder;
   /** 搜索关键词 */
   keywords: string;
+  /** 精灵属性 */
+  attributes: string;
 };
 
 interface IProps {
@@ -19,8 +22,9 @@ interface IProps {
 
 /** 精灵搜索组件 */
 const PetsSearchForm: FC<IProps> = (props) => {
-  const onFinish = (e: ISearchField) => {
-    props.onFinish?.(e);
+  const onFinish = (formData: ISearchField) => {
+    console.log("PetsSearchForm>onFinish:表单提交数据", { formData });
+    props.onFinish?.(formData);
   };
   const onReset = () => {
     props.onReset?.();
@@ -40,7 +44,10 @@ const PetsSearchForm: FC<IProps> = (props) => {
               <Select.Option value="des">降序</Select.Option>
             </Select>
           </Form.Item>
-          <Form.Item tooltip="仅限关键字搜索" label="搜索" name="keywords">
+          <Form.Item label="属性" name="attributes">
+            <PetsAttributes />
+          </Form.Item>
+          <Form.Item tooltip="仅限关键字搜索" label="精灵名称" name="keywords">
             <Input></Input>
           </Form.Item>
           <div className={styles.submitAction}>

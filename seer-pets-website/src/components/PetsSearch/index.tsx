@@ -14,18 +14,26 @@ const PetsSearch: FC = () => {
       page: 1,
       pageSize: 30,
       keywords: "",
+      attributes: "",
     },
   );
   const [pets, setPets] = useState<IPets>([]);
 
-  const handleSearchSubmit = (form: ISearchField) => {
+  /** 搜索表单提交 */
+  const handleSearchSubmit = ({
+    idOrder,
+    keywords,
+    attributes,
+  }: ISearchField) => {
     setSearchForm({
       ...searchForm,
       page: 1, // 页码置为1
-      idOrder: form.idOrder,
-      keywords: form.keywords,
+      idOrder,
+      keywords,
+      attributes,
     });
   };
+  /** 页码更新 */
   const handlePageChange = (page: number, updatePageSize: number) => {
     if (updatePageSize !== searchForm.pageSize) {
       // 页长度更新
@@ -42,6 +50,7 @@ const PetsSearch: FC = () => {
       });
     }
   };
+  /** 搜索列表数据 */
   const handleFetch = () => {
     const result = fetchPets({
       ...searchForm,
@@ -49,12 +58,14 @@ const PetsSearch: FC = () => {
     setPets(result.list);
     setTotal(result.total);
   };
+  /** 搜索表单重置 */
   const handleSearchReset = () => {
     setSearchForm({
       idOrder: "asc",
       page: 1,
       pageSize: 30,
       keywords: "",
+      attributes: "",
     });
   };
 

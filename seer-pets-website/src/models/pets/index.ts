@@ -5,9 +5,12 @@ import { getPetsOrderByIdCache } from "./utils";
 export function fetchPets(
   params: ISearchField & { page: number; pageSize: number },
 ) {
-  const { idOrder, page, pageSize, keywords = "" } = params;
+  const { idOrder, page, pageSize, keywords = "", attributes = "" } = params;
   const result = getPetsOrderByIdCache(idOrder).filter((pet) => {
-    return pet.name.includes(keywords);
+    return (
+      pet.name.includes(keywords) &&
+      (!attributes || pet.attribute === attributes)
+    );
   });
   const start = (page - 1) * pageSize;
   const end = page * pageSize;
