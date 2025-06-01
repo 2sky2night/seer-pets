@@ -3,6 +3,7 @@ import { JSDOM } from "jsdom";
 import { box, fetchWebsite, jsonSafeStringify, logger } from "./utils";
 import { getPetsData, getPetAttributes } from "./modules";
 import path from "node:path";
+import { existsSync, mkdirSync } from "node:fs";
 
 // TODO 常量搞到环境变量里面去
 /** 网站地址 */
@@ -20,6 +21,10 @@ const FILE_OUTPUT_PET_ATTRIBUTES_PATH = path.join(
 );
 
 async function main() {
+  // 0.创建输出目录
+  if (!existsSync(FILE_OUTPUT_BASE_PATH)) {
+    mkdirSync(FILE_OUTPUT_BASE_PATH, { recursive: true });
+  }
   // 1.下载html
   const [downloadError, htmlString] = await box(
     fetchWebsite({ url: WEBSITE_URL, timeout: TIMEOUT, encoding: "gb2312" }),
