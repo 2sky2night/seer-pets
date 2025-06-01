@@ -1,3 +1,4 @@
+import { memo } from "react";
 import type { FC } from "react";
 import { Button, Card, Form, Input, Select, Space } from "antd";
 import styles from "./index.module.less";
@@ -21,7 +22,7 @@ interface IProps {
 }
 
 /** 精灵搜索组件 */
-const PetsSearchForm: FC<IProps> = (props) => {
+const PetsSearchFormInner: FC<IProps> = (props) => {
   const onFinish = (formData: ISearchField) => {
     console.log("PetsSearchForm>onFinish:表单提交数据", { formData });
     props.onFinish?.(formData);
@@ -66,4 +67,4 @@ const PetsSearchForm: FC<IProps> = (props) => {
   );
 };
 
-export default PetsSearchForm;
+export default memo(PetsSearchFormInner);
