@@ -1,6 +1,258 @@
 {
   "pets": [
     {
+      "name": "神裁·雷伊",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004036.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102SK638.jpg",
+      "detailId": "2095",
+      "keywords": "S",
+      "id": "4757",
+      "attribute": "电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004032.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "神决·盖亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004035.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102PN1I.jpg",
+      "detailId": "2434",
+      "keywords": "S",
+      "id": "4758",
+      "attribute": "战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004031.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "赫蒂洛斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004034.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102J04631.jpg",
+      "detailId": "108789",
+      "keywords": "H",
+      "id": "4759",
+      "attribute": "机械火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004030.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "嗒啦啦",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004033.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/29102G44222.jpg",
+      "detailId": "32856",
+      "keywords": "D",
+      "id": "4760",
+      "attribute": "光次元",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004029.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "梦魇塔奇拉顿",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003770.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/201JK1b44.jpg",
+      "detailId": "2991",
+      "keywords": "M",
+      "id": "4756",
+      "attribute": "地暗影",
+      "proprietarySkill": "硬化冲烈破",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-20-1003771.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "梦魇尼斯克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003607.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/141504051C3.jpg",
+      "detailId": "2824",
+      "keywords": "M",
+      "id": "4755",
+      "attribute": "水暗影",
+      "proprietarySkill": "破灭骇浪",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-14-1003606.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "命运玛酷索",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003410.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/0F92Ja058.jpg",
+      "detailId": "2822",
+      "keywords": "M",
+      "id": "4753",
+      "attribute": "飞行超能",
+      "proprietarySkill": "无悔之落日",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-07-1003412.html",
+      "raceValue": "740"
+    },
+    {
+      "name": "雷弧",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003409.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2505/0F92H03093.jpg",
+      "detailId": "34664",
+      "keywords": "L",
+      "id": "4754",
+      "attribute": "电龙",
+      "proprietarySkill": "飞龙雷弧爪",
+      "source": "http://news.4399.com/seer/zenmezhua/202505-07-1003411.html",
+      "raceValue": "715"
+    },
+    {
+      "name": "镇魂约凡撒",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003245.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/291356443426.jpg",
+      "detailId": "2091",
+      "keywords": "Z",
+      "id": "4752",
+      "attribute": "水",
+      "proprietarySkill": "幽波绝凝枪",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-29-1003244.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "对神兵器肯扎特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003032.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/22135UJ937.jpg",
+      "detailId": "96545",
+      "keywords": "D",
+      "id": "4749",
+      "attribute": "机械战斗",
+      "proprietarySkill": "最终协议·耀变",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003029.html",
+      "raceValue": "750"
+    },
+    {
+      "name": "云境归真·始祖灵兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003031.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/22135S03V4.jpg",
+      "detailId": "2093",
+      "keywords": "Y",
+      "id": "4750",
+      "attribute": "草",
+      "proprietarySkill": "始祖清心诀",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003028.html",
+      "raceValue": "760"
+    },
+    {
+      "name": "珀瑞涅",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1003030.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/22135KO248.jpg",
+      "detailId": "88028",
+      "keywords": "P",
+      "id": "4751",
+      "attribute": "圣灵超能",
+      "proprietarySkill": "神工委人评",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-22-1003027.html",
+      "raceValue": "720"
+    },
+    {
+      "name": "超算鲁比克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002839.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/1513544J516.jpg",
+      "detailId": "2090",
+      "keywords": "C",
+      "id": "4748",
+      "attribute": "机械",
+      "proprietarySkill": "多彩宏光",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-15-1002840.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "王之查尔顿",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002477.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/0Q63F15523.jpg",
+      "detailId": "2434",
+      "keywords": "W",
+      "id": "4746",
+      "attribute": "战斗",
+      "proprietarySkill": "凶猛盛威决",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-08-1002479.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "圣颖",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002476.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/0Q636206414.jpg",
+      "detailId": "77776",
+      "keywords": "S",
+      "id": "4747",
+      "attribute": "圣灵光",
+      "proprietarySkill": "圣灵光明阵",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-08-1002478.html",
+      "raceValue": "740"
+    },
+    {
+      "name": "星光·纳多雷",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002423.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/031K0424K5.jpg",
+      "detailId": "2094",
+      "keywords": "X",
+      "id": "4743",
+      "attribute": "地",
+      "proprietarySkill": "五彩芒星",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002427.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "皎梦·悠悠",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002422.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/031K0093P0.jpg",
+      "detailId": "2432",
+      "keywords": "J",
+      "id": "4744",
+      "attribute": "普通",
+      "proprietarySkill": "五彩芒星",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002426.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "阿尔忒弥斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002421.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2504/031J9445346.jpg",
+      "detailId": "3035",
+      "keywords": "A",
+      "id": "4745",
+      "attribute": "草战斗",
+      "proprietarySkill": "挽风游天歌",
+      "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002425.html",
+      "raceValue": "760"
+    },
+    {
+      "name": "幽阑·执冥",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002065.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2503/261431243433.jpg",
+      "detailId": "2436",
+      "keywords": "Y",
+      "id": "4740",
+      "attribute": "暗影",
+      "proprietarySkill": "黑暗五芒星",
+      "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002062.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "崔尔特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002064.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2503/261430532008.jpg",
+      "detailId": "6408",
+      "keywords": "C",
+      "id": "4741",
+      "attribute": "电暗影",
+      "proprietarySkill": "虚势攻心阵",
+      "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002061.html",
+      "raceValue": "720"
+    },
+    {
+      "name": "驭火·迪尔克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1002063.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2503/2614301J294.jpg",
+      "detailId": "2089",
+      "keywords": "Y",
+      "id": "4742",
+      "attribute": "火",
+      "proprietarySkill": "爆炎浴火击",
+      "source": "http://news.4399.com/seer/zenmezhua/202503-26-1002060.html",
+      "raceValue": "700"
+    },
+    {
       "name": "绮芒·蝠迪",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1001822.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2503/1Q409205X8.jpg",
@@ -8,9 +260,9 @@
       "keywords": "Q",
       "id": "4738",
       "attribute": "飞行",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "天翔追闪",
       "source": "http://news.4399.com/seer/zenmezhua/202503-18-1001824.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "绒霜·柯蓝",
@@ -20,9 +272,9 @@
       "keywords": "R",
       "id": "4739",
       "attribute": "冰雪",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "极冰影闪",
       "source": "http://news.4399.com/seer/zenmezhua/202503-18-1001823.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "霆流·希拉",
@@ -39841,5 +40093,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1742831072721
+  "timestamp": 1748749284150
 }
