@@ -1,0 +1,815 @@
+{
+  "attributes": [
+    {
+      "attributeType": "all",
+      "detailId": "0",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/1.gif",
+      "name": "全部"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2088",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/2.gif",
+      "name": "飞行"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2089",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/3.gif",
+      "name": "火"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2090",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/4.gif",
+      "name": "机械"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2091",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/5.gif",
+      "name": "水"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2092",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/6.gif",
+      "name": "冰雪"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2093",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/7.gif",
+      "name": "草"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2094",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/8.gif",
+      "name": "地"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2095",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/9.gif",
+      "name": "电"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2432",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/10.gif",
+      "name": "普通"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2433",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/11.gif",
+      "name": "超能"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2434",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/12.gif",
+      "name": "战斗"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2435",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/13.gif",
+      "name": "光"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2436",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/14.gif",
+      "name": "暗影"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2437",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/15.gif",
+      "name": "神秘"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2438",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/16.gif",
+      "name": "龙"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "2439",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/17.gif",
+      "name": "圣灵"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "5244",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/18.gif",
+      "name": "次元"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "6407",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/19.gif",
+      "name": "远古"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "23074",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/20.gif",
+      "name": "邪灵"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "37377",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/21.gif",
+      "name": "自然"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "52835",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1512/30163J3CL.gif",
+      "name": "王"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "84553",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1706/2F9360DB1.gif",
+      "name": "混沌"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "86547",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1708/03102605J12.gif",
+      "name": "神灵"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "91465",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1712/251I2052527.gif",
+      "name": "轮回"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "94652",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1804/251H10Q3T.gif",
+      "name": "虫"
+    },
+    {
+      "attributeType": "singleAttribute",
+      "detailId": "99479",
+      "imgSrc": "//newsimg.5054399.com/uploads/soft/190222/100_1926284731.png",
+      "name": "虚空"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3035",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/22.gif",
+      "name": "草战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2997",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/23.gif",
+      "name": "草暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2909",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/24.gif",
+      "name": "草超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3037",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/25.gif",
+      "name": "水超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2829",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/26.gif",
+      "name": "水龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "34399",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/27.gif",
+      "name": "水战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2824",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/28.gif",
+      "name": "水暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "28385",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/29.gif",
+      "name": "火神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2964",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/30.gif",
+      "name": "火龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2864",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/31.gif",
+      "name": "火超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2904",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/32.gif",
+      "name": "火电"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3273",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/33.gif",
+      "name": "冰龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2891",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/34.gif",
+      "name": "冰超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2837",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/35.gif",
+      "name": "冰暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2838",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/36.gif",
+      "name": "冰光"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3993",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/37.gif",
+      "name": "飞行火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3036",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/38.gif",
+      "name": "飞行龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "7024",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/39.gif",
+      "name": "飞行神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2822",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/40.gif",
+      "name": "飞行超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3182",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/41.gif",
+      "name": "电战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "6408",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/42.gif",
+      "name": "电暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2956",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/43.gif",
+      "name": "电冰"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "34664",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/44.gif",
+      "name": "电龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3034",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/45.gif",
+      "name": "地面龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "9470",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/46.gif",
+      "name": "地面超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2827",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/47.gif",
+      "name": "地面机械"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2991",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/48.gif",
+      "name": "地暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3028",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/49.gif",
+      "name": "战斗暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2840",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/50.gif",
+      "name": "战斗地面"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2823",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/51.gif",
+      "name": "战斗火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "5262",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/52.gif",
+      "name": "机械龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "3014",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/53.gif",
+      "name": "机械超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "5868",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/54.gif",
+      "name": "光神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "29418",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/55.gif",
+      "name": "光战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "2863",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/56.gif",
+      "name": "光飞行"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "32856",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/57.gif",
+      "name": "光次元"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "35076",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/58.gif",
+      "name": "光火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "35465",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/59.gif",
+      "name": "光暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "30354",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/60.gif",
+      "name": "远古龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "26781",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/61.gif",
+      "name": "远古战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "17545",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/62.gif",
+      "name": "暗影圣灵"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "11352",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/63.gif",
+      "name": "暗影龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "5869",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/64.gif",
+      "name": "暗影神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "29734",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/65.gif",
+      "name": "次元战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "29725",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/66.gif",
+      "name": "邪灵神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "29724",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/67.gif",
+      "name": "神秘战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "34400",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/68.gif",
+      "name": "圣灵远古"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "37239",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/69.gif",
+      "name": "远古神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "37238",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/70.gif",
+      "name": "邪灵龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "40423",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/71.gif",
+      "name": "机械次元"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "43493",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/72.gif",
+      "name": "自然战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "43494",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/73.gif",
+      "name": "战斗龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "43903",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/74.gif",
+      "name": "机械邪灵"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "43902",
+      "imgSrc": "//www.4399.com/flashzt/img/seer_20150629/75.gif",
+      "name": "电次元"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "44353",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1507/161636452P9.gif",
+      "name": "远古火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "48584",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1510/0QJ0395261.gif",
+      "name": "圣灵战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "48722",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1510/0QJ332WW.gif",
+      "name": "圣灵次元"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "49382",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1510/21114103c46.gif",
+      "name": "远古地面"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "49380",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1511/021A43644J.gif",
+      "name": "远古草"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "51703",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1512/12142PK062.gif",
+      "name": "自然龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "53020",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1512/30163J3MP.gif",
+      "name": "冰神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "62722",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1605/21102HQ501.gif",
+      "name": "神秘超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "62723",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1605/21102HV2C.gif",
+      "name": "飞行暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "67741",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1608/10094UG425.gif",
+      "name": "冰火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "74490",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1611/191415443636.gif",
+      "name": "冰飞行"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "76164",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1612/22160A2J41.gif",
+      "name": "圣灵自然"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "77634",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1702/040933455922.gif",
+      "name": "混沌圣灵"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "77776",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1702/040933452642.gif",
+      "name": "圣灵光"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "79166",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1703/091K31M332.gif",
+      "name": "远古邪灵"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "83526",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1706/0GIR553S.gif",
+      "name": "自然冰"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "83823",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1706/13093K34230.gif",
+      "name": "圣灵电"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "84554",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1706/2F935205153.gif",
+      "name": "混沌暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "86890",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1708/10135K34S7.gif",
+      "name": "混沌战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "87397",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1708/24104354O94.gif",
+      "name": "混沌超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "88028",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1709/0Q0550IM2.gif",
+      "name": "圣灵超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "90193",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1711/23133Q33626.gif",
+      "name": "邪灵暗影"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "90194",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1711/2311331N214.gif",
+      "name": "混沌地面"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "91010",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1712/13112TWT3.gif",
+      "name": "混沌远古"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "91514",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1712/2G5352N256.gif",
+      "name": "混沌邪灵"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "92616",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1801/3011240G303.gif",
+      "name": "圣灵地面"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "93767",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1803/2209363122N.gif",
+      "name": "暗影火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "49381",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1805/22201040O93.gif",
+      "name": "光超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "96545",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1807/311401195159.gif",
+      "name": "机械战斗"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "96655",
+      "imgSrc": "//newsimg.5054399.com/uploads/allimg/180807/100_1130321461.gif",
+      "name": "飞行电"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "97106",
+      "imgSrc": "//newsimg.5054399.com/uploads/allimg/180830/100_1015033101.gif",
+      "name": "混沌飞行"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "97213",
+      "imgSrc": "//newsimg.5054399.com/uploads/allimg/180905/100_1649527901.gif",
+      "name": "混沌龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "97766",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1810/161451595136.gif",
+      "name": "混沌火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "97767",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/1810/1614515bY7.gif",
+      "name": "圣灵火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "98184",
+      "imgSrc": "//newsimg.5054399.com/uploads/allimg/181121/100_1151032791.gif",
+      "name": "地面神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "98750",
+      "imgSrc": "//newsimg.5054399.com/uploads/soft/181226/100_1827285691.png",
+      "name": "混沌次元"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "99288",
+      "imgSrc": "//newsimg.5054399.com/uploads/soft/190131/100_1517076671.png",
+      "name": "混沌冰"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "100919",
+      "imgSrc": "//newsimg.5054399.com/uploads/soft/190610/100_1613083811.png",
+      "name": "自然神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "103270",
+      "imgSrc": "//newsimg.5054399.com/uploads/soft/200121/519_1444442261.png",
+      "name": "虚空邪灵"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "105350",
+      "imgSrc": "//newsimg.5054399.com/uploads/soft/210104/519_1716317421.png",
+      "name": "虚空混沌"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "106816",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2112/3009300C108.png",
+      "name": "圣灵轮回"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "107219",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2206/100Z152UM.png",
+      "name": "水次元"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "107295",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2208/041404543401.png",
+      "name": "圣灵神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "107647",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2212/30150930a34.png",
+      "name": "机械神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "107878",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2306/1509305TM4.png",
+      "name": "水神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108337",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2312/2Q5214WR5.png",
+      "name": "次元龙"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108382",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2402/0614361DF8.png",
+      "name": "自然超能"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108543",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2406/13135A192Y.png",
+      "name": "电机械"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108756",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2409/2612021YP8.png",
+      "name": "轮回神秘"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108789",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2410/1G051519622.png",
+      "name": "机械火"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108798",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2410/2211244W551.png",
+      "name": "草机械"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108799",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2410/25145025WN.png",
+      "name": "水机械"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "108952",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2412/241445439634.png",
+      "name": "远古电"
+    },
+    {
+      "attributeType": "doubleAttributes",
+      "detailId": "109014",
+      "imgSrc": "//newsimg.5054399.com/uploads/userup/2502/2610263055I.png",
+      "name": "圣灵飞行"
+    }
+  ],
+  "timestamp": 1748750351296
+}
