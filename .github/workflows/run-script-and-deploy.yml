@@ -75,7 +75,7 @@ jobs:
     - name: 将输出代码自动提交到 deploy 分支
       run: |
         git add .
-        git commit -m "自动提交: 将爬虫数据提交到 deploy 分支"
+        git commit -m "Automated commit: 将爬虫数据提交到 deploy 分支"
         git push origin deploy
       
     - name: 安装seer-pets-website依赖并打包前端项目
