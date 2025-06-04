@@ -1,0 +1,32 @@
+on:
+  push:
+    branches:
+      - deploy
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    lint:
+    name: 将 deploy 分支的文件部署到github-page上🚀
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: "deploy"
+
+      - name: 安装seer-pets-website依赖并打包前端项目
+        run: |
+          cd ./seer-pets-website
+          npm install
+          npm run build
+
+      - name: 部署到github-page上🚀
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          BRANCH: gh-pages # 把打包后的文件部署到gh-pages分支，记得开启github-page
+          FOLDER: seer-pets-website/dist # 这里需要制定，项目打包后的文件夹
+          
