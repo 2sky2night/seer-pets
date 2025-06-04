@@ -40,7 +40,7 @@ jobs:
     - name: 切换到deploy分支拉取仓库代码
       uses: actions/checkout@v4
       with:
-        refs: 'deploy'
+        ref: 'deploy'
 
     - name: 安装task-get-pets依赖
       run: cd ./task-get-pets && npm install
