@@ -37,14 +37,10 @@ jobs:
       with:
         node-version: '22.12.0'
 
-    - name: 拉取仓库代码
+    - name: 切换到deploy分支拉取仓库代码
       uses: actions/checkout@v4
-    
-    - name: 切换到部署分支
-      run: |
-        git branch -M deploy
-        ls
-        git pull origin deploy
+      with:
+        refs: 'deploy'
 
     - name: 安装task-get-pets依赖
       run: cd ./task-get-pets && npm install
