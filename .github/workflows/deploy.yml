@@ -40,11 +40,6 @@ jobs:
     - name: 拉取仓库代码
       uses: actions/checkout@v4
     
-    - name: 切换为部署分支
-      run: |
-        git fetch origin gh-pages
-        git checkout gh-pages
-
     - name: 安装task-get-pets依赖
       run: cd ./task-get-pets && npm install
     
