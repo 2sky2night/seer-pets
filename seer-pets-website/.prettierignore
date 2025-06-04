@@ -1,6 +1,7 @@
 build
 coverage
 **/.git
+**.jpg
 **/.svn
 **/.hg
 **/node_modules
