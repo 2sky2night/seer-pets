@@ -72,11 +72,11 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: 将输出代码自动提交到仓库
+    - name: 将输出代码自动提交到 deploy 分支
       run: |
-        git add .  # 添加文件到暂存区
-        git commit -m "Automated commit: Copy file to repository"
-        git push origin $GITHUB_REF
+        git add .
+        git commit -m "自动提交: 将爬虫数据提交到 deploy 分支"
+        git push origin deploy
       
     - name: 安装seer-pets-website依赖并打包前端项目
       run: |
