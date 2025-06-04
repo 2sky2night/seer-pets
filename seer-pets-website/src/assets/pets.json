@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "琉梦",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004124.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/031F51HR0.jpg",
+      "detailId": "37239",
+      "keywords": "L",
+      "id": "4761",
+      "attribute": "远古神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004128.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "湮灭之主·咤克斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004123.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/031F4391402.jpg",
+      "detailId": "84553",
+      "keywords": "Y",
+      "id": "4762",
+      "attribute": "混沌",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004127.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "魇魔",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004122.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/031F3431952.jpg",
+      "detailId": "2436",
+      "keywords": "Y",
+      "id": "4763",
+      "attribute": "暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004126.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "雁翎",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004121.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/031F2452A3.jpg",
+      "detailId": "7024",
+      "keywords": "Y",
+      "id": "4764",
+      "attribute": "飞行神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004125.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "神裁·雷伊",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004036.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2505/29102SK638.jpg",
@@ -8,9 +56,9 @@
       "keywords": "S",
       "id": "4757",
       "attribute": "电",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "雷神万霆闪",
       "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004032.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "神决·盖亚",
@@ -20,9 +68,9 @@
       "keywords": "S",
       "id": "4758",
       "attribute": "战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "天崩万界破",
       "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004031.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "赫蒂洛斯",
@@ -32,9 +80,9 @@
       "keywords": "H",
       "id": "4759",
       "attribute": "机械火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "百里行焦土",
       "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004030.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "嗒啦啦",
@@ -44,9 +92,9 @@
       "keywords": "D",
       "id": "4760",
       "attribute": "光次元",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "嗒啦啦之星",
       "source": "http://news.4399.com/seer/zenmezhua/202505-29-1004029.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "梦魇塔奇拉顿",
@@ -40093,5 +40141,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1748920621962
+  "timestamp": 1749007032219
 }
