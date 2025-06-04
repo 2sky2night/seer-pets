@@ -39,11 +39,11 @@ jobs:
 
     - name: 拉取仓库代码
       uses: actions/checkout@v4
-      with:
-        # The branch, tag or SHA to checkout. When checking out the repository that
-        # triggered a workflow, this defaults to the reference or SHA for that event.
-        # Otherwise, uses the default branch.
-        ref: 'gh-pages'
+    
+    - name: 切换到部署分支
+      run: |
+        git branch -M deploy
+        ls
 
     - name: 安装task-get-pets依赖
       run: cd ./task-get-pets && npm install
