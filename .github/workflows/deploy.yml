@@ -62,6 +62,12 @@ jobs:
         cp ./dist/static/attributes.json ../seer-pets-website/src/assets/attributes.json
         cd ../seer-pets-website/src/assets && ls
 
+    - name: 格式化输出文件
+      run: |
+        cd ./seer-pets-website/src/assets
+        npx prettier pets.json --write
+        npx prettier attributes.json --write 
+
     - name: 配置 Git 用户信息
       run: |
         git config --global user.name "github-actions[bot]"
