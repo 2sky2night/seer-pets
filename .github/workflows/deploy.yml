@@ -64,9 +64,9 @@ jobs:
 
     - name: 格式化输出文件
       run: |
-        cd ./seer-pets-website/src/assets
-        npx prettier pets.json --write
-        npx prettier attributes.json --write 
+        cd ./seer-pets-website
+        npx prettier ./src/assets/pets.json --write
+        npx prettier ./src/assets/attributes.json --write 
 
     - name: 配置 Git 用户信息
       run: |
