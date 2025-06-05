@@ -3,6 +3,7 @@ import styles from "./index.module.less";
 import { timestamp } from "../../assets/pets.json";
 import dayjs from "dayjs";
 import { Modal } from "antd";
+import seerLogoUrl from "../../assets/seer-logo.jpg";
 
 /** 上一次更新时间 */
 const updateTime = timestamp
@@ -17,7 +18,7 @@ const Header: FC = () => {
   return (
     <>
       <header className={styles.header}>
-        <img className={styles.logo} src="/seer-logo.jpg"></img>
+        <img className={styles.logo} src={seerLogoUrl}></img>
         <div className={styles.tips}>
           <span className={styles.about} onClick={handleShowModal}>
             关于
