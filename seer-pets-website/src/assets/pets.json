@@ -1,6 +1,150 @@
 {
   "pets": [
     {
+      "name": "怒雷神裁·雷伊",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004296.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/1016142bU0.jpg",
+      "detailId": "2095",
+      "keywords": "N",
+      "id": "4765",
+      "attribute": "电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004309.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "灭战神决·盖亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004295.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/1016135JZ8.jpg",
+      "detailId": "2434",
+      "keywords": "M",
+      "id": "4766",
+      "attribute": "战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004308.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "露尼亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004294.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/1016132Na9.jpg",
+      "detailId": "2840",
+      "keywords": "L",
+      "id": "4767",
+      "attribute": "战斗地面",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004307.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "欧古德",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004293.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/1016125B451.jpg",
+      "detailId": "9470",
+      "keywords": "O",
+      "id": "4768",
+      "attribute": "地面超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004306.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "希罗里",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004292.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/10161225J36.jpg",
+      "detailId": "98184",
+      "keywords": "X",
+      "id": "4769",
+      "attribute": "地面神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004305.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "碧岩兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004291.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/101611442053.jpg",
+      "detailId": "2094",
+      "keywords": "B",
+      "id": "4770",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004304.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "塔姆顿",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004290.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/10161122S06.jpg",
+      "detailId": "2094",
+      "keywords": "T",
+      "id": "4771",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004303.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "焠晶兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004289.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/101610264T0.jpg",
+      "detailId": "2089",
+      "keywords": "C",
+      "id": "4772",
+      "attribute": "火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004301.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "艮比兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004288.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/101609535144.jpg",
+      "detailId": "2089",
+      "keywords": "G",
+      "id": "4773",
+      "attribute": "火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004300.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "多鲁特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004287.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/101609231W3.jpg",
+      "detailId": "2089",
+      "keywords": "D",
+      "id": "4774",
+      "attribute": "火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004299.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "蓝腹蛙",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004286.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/10160K32N8.jpg",
+      "detailId": "2091",
+      "keywords": "L",
+      "id": "4775",
+      "attribute": "水",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004298.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "卡希沙",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004285.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/10160H14I6.jpg",
+      "detailId": "2091",
+      "keywords": "K",
+      "id": "4776",
+      "attribute": "水",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004297.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "琉梦",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004124.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2506/031F51HR0.jpg",
@@ -8,9 +152,9 @@
       "keywords": "L",
       "id": "4761",
       "attribute": "远古神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "无觉之长梦",
       "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004128.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "湮灭之主·咤克斯",
@@ -20,9 +164,9 @@
       "keywords": "Y",
       "id": "4762",
       "attribute": "混沌",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "绝灭·万物哀鸣",
       "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004127.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "魇魔",
@@ -32,9 +176,9 @@
       "keywords": "Y",
       "id": "4763",
       "attribute": "暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "湮灭灌注",
       "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004126.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "雁翎",
@@ -44,9 +188,9 @@
       "keywords": "Y",
       "id": "4764",
       "attribute": "飞行神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "豪才八斗",
       "source": "http://news.4399.com/seer/zenmezhua/202506-03-1004125.html",
-      "raceValue": "暂无资料"
+      "raceValue": "730"
     },
     {
       "name": "神裁·雷伊",
@@ -40141,5 +40285,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1749525682651
+  "timestamp": 1749612038515
 }
