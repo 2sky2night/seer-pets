@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "挖掘型TOH",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004460.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/1G333053S7.jpg",
+      "detailId": "2090",
+      "keywords": "W",
+      "id": "4777",
+      "attribute": "机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-17-1004463.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "晶榴瑞特拉",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004459.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/1G33235G61.jpg",
+      "detailId": "2094",
+      "keywords": "J",
+      "id": "4778",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-17-1004462.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "斯崔因",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004458.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/1G3320LK9.jpg",
+      "detailId": "2094",
+      "keywords": "S",
+      "id": "4779",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-17-1004461.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "怒雷神裁·雷伊",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004296.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2506/1016142bU0.jpg",
@@ -8,9 +44,9 @@
       "keywords": "N",
       "id": "4765",
       "attribute": "电",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "雷神·天明闪",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004309.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "灭战神决·盖亚",
@@ -20,9 +56,9 @@
       "keywords": "M",
       "id": "4766",
       "attribute": "战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "战神·破天闪",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004308.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "露尼亚",
@@ -32,9 +68,9 @@
       "keywords": "L",
       "id": "4767",
       "attribute": "战斗地面",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "激化胞质体",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004307.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "欧古德",
@@ -44,9 +80,9 @@
       "keywords": "O",
       "id": "4768",
       "attribute": "地面超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "幻化胞质体",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004306.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "希罗里",
@@ -56,9 +92,9 @@
       "keywords": "X",
       "id": "4769",
       "attribute": "地面神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "异化胞质体",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004305.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "碧岩兽",
@@ -68,9 +104,9 @@
       "keywords": "B",
       "id": "4770",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "挖洞",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004304.html",
-      "raceValue": "暂无资料"
+      "raceValue": "305"
     },
     {
       "name": "塔姆顿",
@@ -80,9 +116,9 @@
       "keywords": "T",
       "id": "4771",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "乱石裂震",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004303.html",
-      "raceValue": "暂无资料"
+      "raceValue": "540"
     },
     {
       "name": "焠晶兽",
@@ -92,9 +128,9 @@
       "keywords": "C",
       "id": "4772",
       "attribute": "火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "烟幕",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004301.html",
-      "raceValue": "暂无资料"
+      "raceValue": "308"
     },
     {
       "name": "艮比兽",
@@ -104,9 +140,9 @@
       "keywords": "G",
       "id": "4773",
       "attribute": "火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "追击",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004300.html",
-      "raceValue": "暂无资料"
+      "raceValue": "418"
     },
     {
       "name": "多鲁特",
@@ -116,9 +152,9 @@
       "keywords": "D",
       "id": "4774",
       "attribute": "火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "烈焰凤袭",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004299.html",
-      "raceValue": "暂无资料"
+      "raceValue": "558"
     },
     {
       "name": "蓝腹蛙",
@@ -128,9 +164,9 @@
       "keywords": "L",
       "id": "4775",
       "attribute": "水",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "浓缩汁液",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004298.html",
-      "raceValue": "暂无资料"
+      "raceValue": "278"
     },
     {
       "name": "卡希沙",
@@ -140,9 +176,9 @@
       "keywords": "K",
       "id": "4776",
       "attribute": "水",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "剧毒渗透",
       "source": "http://news.4399.com/seer/zenmezhua/202506-10-1004297.html",
-      "raceValue": "暂无资料"
+      "raceValue": "548"
     },
     {
       "name": "琉梦",
@@ -644,9 +680,9 @@
       "keywords": "J",
       "id": "4722",
       "attribute": "暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "影球",
       "source": "http://news.4399.com/seer/zenmezhua/202502-05-1000809.html",
-      "raceValue": "暂无资料"
+      "raceValue": "480"
     },
     {
       "name": "波拉",
@@ -656,9 +692,9 @@
       "keywords": "B",
       "id": "4723",
       "attribute": "暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "暗影爆炸",
       "source": "http://news.4399.com/seer/zenmezhua/202502-05-1000808.html",
-      "raceValue": "暂无资料"
+      "raceValue": "590"
     },
     {
       "name": "波古拉",
@@ -40285,5 +40321,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1750130448951
+  "timestamp": 1750216789900
 }
