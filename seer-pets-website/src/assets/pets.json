@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "布贝巴拉",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004614.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/250ZR4V03.jpg",
+      "detailId": "3037",
+      "keywords": "B",
+      "id": "4780",
+      "attribute": "水超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-25-1004612.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "锐寇特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004613.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2506/250ZK43533.jpg",
+      "detailId": "49382",
+      "keywords": "R",
+      "id": "4781",
+      "attribute": "远古地面",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202506-25-1004611.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "挖掘型TOH",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004460.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2506/1G333053S7.jpg",
@@ -8,9 +32,9 @@
       "keywords": "W",
       "id": "4777",
       "attribute": "机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "TH天基轰灭",
       "source": "http://news.4399.com/seer/zenmezhua/202506-17-1004463.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "晶榴瑞特拉",
@@ -20,9 +44,9 @@
       "keywords": "J",
       "id": "4778",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "落土下石",
       "source": "http://news.4399.com/seer/zenmezhua/202506-17-1004462.html",
-      "raceValue": "暂无资料"
+      "raceValue": "628"
     },
     {
       "name": "斯崔因",
@@ -32,9 +56,9 @@
       "keywords": "S",
       "id": "4779",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "纯化胞质体",
       "source": "http://news.4399.com/seer/zenmezhua/202506-17-1004461.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "怒雷神裁·雷伊",
@@ -40321,5 +40345,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1750735298682
+  "timestamp": 1750821769161
 }
