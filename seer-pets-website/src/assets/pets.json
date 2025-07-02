@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "鞘盾龙鱼",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004769.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/011H9152526.jpg",
+      "detailId": "2829",
+      "keywords": "Q",
+      "id": "4782",
+      "attribute": "水龙",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-01-1004771.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "斯弗洛浦亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004768.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/011HSK4K.jpg",
+      "detailId": "2824",
+      "keywords": "S",
+      "id": "4783",
+      "attribute": "水暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-01-1004770.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "布贝巴拉",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004614.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2506/250ZR4V03.jpg",
@@ -8,9 +32,9 @@
       "keywords": "B",
       "id": "4780",
       "attribute": "水超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "高压光栅炮",
       "source": "http://news.4399.com/seer/zenmezhua/202506-25-1004612.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "锐寇特",
@@ -20,9 +44,9 @@
       "keywords": "R",
       "id": "4781",
       "attribute": "远古地面",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "魔像朽前尘",
       "source": "http://news.4399.com/seer/zenmezhua/202506-25-1004611.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "挖掘型TOH",
@@ -40345,5 +40369,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1751341326501
+  "timestamp": 1751426528486
 }
