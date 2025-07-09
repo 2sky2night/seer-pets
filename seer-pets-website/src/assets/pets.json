@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "诺尔玛罗",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004982.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/0Z9124K400.jpg",
+      "detailId": "43494",
+      "keywords": "N",
+      "id": "4784",
+      "attribute": "战斗龙",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-09-1004985.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "铭唤",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004981.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/0Z91220A34.jpg",
+      "detailId": "91010",
+      "keywords": "M",
+      "id": "4785",
+      "attribute": "混沌远古",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-09-1004984.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "诺玛",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004980.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/0Z911461639.jpg",
+      "detailId": "2434",
+      "keywords": "N",
+      "id": "4786",
+      "attribute": "战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-09-1004983.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "鞘盾龙鱼",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1004769.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2507/011H9152526.jpg",
@@ -8,9 +44,9 @@
       "keywords": "Q",
       "id": "4782",
       "attribute": "水龙",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "怒海狂涛击",
       "source": "http://news.4399.com/seer/zenmezhua/202507-01-1004771.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "斯弗洛浦亚",
@@ -20,9 +56,9 @@
       "keywords": "S",
       "id": "4783",
       "attribute": "水暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "深水黑裂击",
       "source": "http://news.4399.com/seer/zenmezhua/202507-01-1004770.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "布贝巴拉",
@@ -40369,5 +40405,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1751944977412
+  "timestamp": 1752031514096
 }
