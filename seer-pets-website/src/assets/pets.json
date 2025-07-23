@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "厄孽提亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005345.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/2309140M113.jpg",
+      "detailId": "2093",
+      "keywords": "E",
+      "id": "4793",
+      "attribute": "草",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-23-1005349.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "努迪",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005344.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/2309134333T.jpg",
+      "detailId": "2432",
+      "keywords": "N",
+      "id": "4794",
+      "attribute": "普通",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-23-1005348.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "波鲁",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005343.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/230913061415.jpg",
+      "detailId": "2093",
+      "keywords": "B",
+      "id": "4795",
+      "attribute": "草",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-23-1005347.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "基亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005342.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2507/23091235S00.jpg",
+      "detailId": "23074",
+      "keywords": "J",
+      "id": "4796",
+      "attribute": "邪灵",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202507-23-1005346.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "机械钢牙鲨",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005182.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2507/151639255061.jpg",
@@ -8,9 +56,9 @@
       "keywords": "J",
       "id": "4787",
       "attribute": "水机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "钢化利牙击",
       "source": "http://news.4399.com/seer/zenmezhua/202507-15-1005188.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "缇娅薇",
@@ -20,9 +68,9 @@
       "keywords": "T",
       "id": "4788",
       "attribute": "自然超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "愈色森罗",
       "source": "http://news.4399.com/seer/zenmezhua/202507-15-1005187.html",
-      "raceValue": "暂无资料"
+      "raceValue": "715"
     },
     {
       "name": "海天使",
@@ -32,9 +80,9 @@
       "keywords": "H",
       "id": "4789",
       "attribute": "光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "寒意折射",
       "source": "http://news.4399.com/seer/zenmezhua/202507-15-1005186.html",
-      "raceValue": "暂无资料"
+      "raceValue": "660"
     },
     {
       "name": "渊水母·悦",
@@ -44,9 +92,9 @@
       "keywords": "Y",
       "id": "4790",
       "attribute": "光神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "渊影之欣快",
       "source": "http://news.4399.com/seer/zenmezhua/202507-15-1005185.html",
-      "raceValue": "暂无资料"
+      "raceValue": "660"
     },
     {
       "name": "渊水母·郁",
@@ -56,9 +104,9 @@
       "keywords": "Y",
       "id": "4791",
       "attribute": "冰神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "渊影之愁郁",
       "source": "http://news.4399.com/seer/zenmezhua/202507-15-1005184.html",
-      "raceValue": "暂无资料"
+      "raceValue": "660"
     },
     {
       "name": "渊水母·怒",
@@ -68,9 +116,9 @@
       "keywords": "Y",
       "id": "4792",
       "attribute": "火神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "渊影之躁狂",
       "source": "http://news.4399.com/seer/zenmezhua/202507-15-1005183.html",
-      "raceValue": "暂无资料"
+      "raceValue": "660"
     },
     {
       "name": "诺尔玛罗",
@@ -40477,5 +40525,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1753155648424
+  "timestamp": 1753242155653
 }
