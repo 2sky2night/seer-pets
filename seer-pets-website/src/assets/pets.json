@@ -8,9 +8,9 @@
       "keywords": "J",
       "id": "4797",
       "attribute": "机械邪灵",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "极渊·渎神",
       "source": "http://news.4399.com/seer/zenmezhua/202507-29-1005504.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "霸颚鲛",
@@ -20,21 +20,21 @@
       "keywords": "B",
       "id": "4798",
       "attribute": "水",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "深海狂颚",
       "source": "http://news.4399.com/seer/zenmezhua/202507-29-1005503.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "提玛拉",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005499.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2507/29114T33292.jpg",
-      "detailId": "2091",
+      "detailId": "3037",
       "keywords": "T",
       "id": "4799",
-      "attribute": "水",
-      "proprietarySkill": "暂无资料",
+      "attribute": "水超能",
+      "proprietarySkill": "倩影揽滔潮",
       "source": "http://news.4399.com/seer/zenmezhua/202507-29-1005502.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "厄孽提亚",
@@ -40561,5 +40561,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1754193225203
+  "timestamp": 1754279952315
 }
