@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "小猪妖",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005769.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2508/051631442646.jpg",
+      "detailId": "2432",
+      "keywords": "X",
+      "id": "4801",
+      "attribute": "普通",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202508-05-1005771.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "蛤蟆精",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005768.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2508/0516311613Q.jpg",
+      "detailId": "2091",
+      "keywords": "H",
+      "id": "4802",
+      "attribute": "水",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202508-05-1005770.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "极渊DS-001",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005501.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2507/291149393507.jpg",
@@ -40561,5 +40585,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1754365825027
+  "timestamp": 1754452060495
 }
