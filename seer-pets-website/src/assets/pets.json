@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "黄鼠狼精",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005935.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2508/1215561U143.jpg",
+      "detailId": "2094",
+      "keywords": "H",
+      "id": "4804",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202508-12-1005933.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "黄眉怪",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005934.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2508/121555133543.jpg",
+      "detailId": "23074",
+      "keywords": "H",
+      "id": "4805",
+      "attribute": "邪灵",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202508-12-1005932.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "小猪妖",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1005769.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2508/051631442646.jpg",
@@ -8,9 +32,9 @@
       "keywords": "X",
       "id": "4801",
       "attribute": "普通",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "透力飞石击",
       "source": "http://news.4399.com/seer/zenmezhua/202508-05-1005771.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "蛤蟆精",
@@ -20,9 +44,9 @@
       "keywords": "H",
       "id": "4802",
       "attribute": "水",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "蛤蟆气功波",
       "source": "http://news.4399.com/seer/zenmezhua/202508-05-1005770.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "极渊DS-001",
@@ -40585,5 +40609,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1754968844223
+  "timestamp": 1755055400894
 }
