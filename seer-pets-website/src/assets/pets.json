@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "瓦伦汀",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1006435.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2509/03091451b56.jpg",
+      "detailId": "2433",
+      "keywords": "W",
+      "id": "4810",
+      "attribute": "超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202509-03-1006434.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "黑石女妖",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1006226.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2508/261044316031.jpg",
@@ -8,9 +20,9 @@
       "keywords": "H",
       "id": "4807",
       "attribute": "混沌飞行",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "黯夜疾风击",
       "source": "http://news.4399.com/seer/zenmezhua/202508-26-1006223.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "讳迹·米修莉",
@@ -20,9 +32,9 @@
       "keywords": "H",
       "id": "4808",
       "attribute": "神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "不昼狂欢曲",
       "source": "http://news.4399.com/seer/zenmezhua/202508-26-1006222.html",
-      "raceValue": "暂无资料"
+      "raceValue": "745"
     },
     {
       "name": "薇丝珀",
@@ -32,9 +44,9 @@
       "keywords": "W",
       "id": "4809",
       "attribute": "远古草",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "旧迹觅遗枝",
       "source": "http://news.4399.com/seer/zenmezhua/202508-26-1006221.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "猩猩怪",
@@ -40669,5 +40681,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1756782604328
+  "timestamp": 1756868335441
 }
