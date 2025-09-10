@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "拉米兹",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1006556.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2509/091H12HM5.jpg",
+      "detailId": "2904",
+      "keywords": "L",
+      "id": "4811",
+      "attribute": "火电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202509-09-1006553.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "埃罗曼",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1006555.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2509/091H1024227.jpg",
+      "detailId": "2827",
+      "keywords": "A",
+      "id": "4812",
+      "attribute": "地面机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202509-09-1006552.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "夏莉莉",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1006554.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2509/091H0332Q6.jpg",
+      "detailId": "9470",
+      "keywords": "X",
+      "id": "4813",
+      "attribute": "地面超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202509-09-1006551.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "瓦伦汀",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1006435.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2509/03091451b56.jpg",
@@ -8,9 +44,9 @@
       "keywords": "W",
       "id": "4810",
       "attribute": "超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "银之弹丸",
       "source": "http://news.4399.com/seer/zenmezhua/202509-03-1006434.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "黑石女妖",
@@ -40681,5 +40717,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1757387134495
+  "timestamp": 1757473160467
 }
