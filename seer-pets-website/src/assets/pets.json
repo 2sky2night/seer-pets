@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "伊芙",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007018.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2509/2415293UV2.jpg",
+      "detailId": "3014",
+      "keywords": "Y",
+      "id": "4816",
+      "attribute": "机械超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202509-24-1007013.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "无极圣武",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007017.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2509/24152Z45U0.jpg",
+      "detailId": "109425",
+      "keywords": "W",
+      "id": "4800",
+      "attribute": "远古机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202509-24-1007012.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "玛艾拉",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007015.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2509/24152Q09538.jpg",
+      "detailId": "2838",
+      "keywords": "M",
+      "id": "4817",
+      "attribute": "冰光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202509-24-1007011.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "娜诺",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1006741.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2509/1F923352347.jpg",
@@ -8,9 +44,9 @@
       "keywords": "N",
       "id": "4814",
       "attribute": "战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "撬动世界",
       "source": "http://news.4399.com/seer/zenmezhua/202509-17-1006739.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "火箭骑士君",
@@ -20,9 +56,9 @@
       "keywords": "H",
       "id": "4815",
       "attribute": "飞行",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "火箭骑士踢",
       "source": "http://news.4399.com/seer/zenmezhua/202509-17-1006738.html",
-      "raceValue": "暂无资料"
+      "raceValue": "715"
     },
     {
       "name": "拉米兹",
@@ -40741,5 +40777,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1758683014220
+  "timestamp": 1758769543584
 }
