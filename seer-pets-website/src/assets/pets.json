@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "福尔摩苏斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007335.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/0Z91S22a3.jpg",
+      "detailId": "5868",
+      "keywords": "F",
+      "id": "4818",
+      "attribute": "光神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-09-1007333.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "月桂小兔",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007334.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/0Z91P22Z3.jpg",
+      "detailId": "49381",
+      "keywords": "Y",
+      "id": "4819",
+      "attribute": "光超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-09-1007332.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "伊芙",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007018.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2509/2415293UV2.jpg",
@@ -8,9 +32,9 @@
       "keywords": "Y",
       "id": "4816",
       "attribute": "机械超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "潮涌核共鸣",
       "source": "http://news.4399.com/seer/zenmezhua/202509-24-1007013.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "无极圣武",
@@ -20,9 +44,9 @@
       "keywords": "W",
       "id": "4800",
       "attribute": "远古机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "圣武·虚极拓世",
       "source": "http://news.4399.com/seer/zenmezhua/202509-24-1007012.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "玛艾拉",
@@ -32,9 +56,9 @@
       "keywords": "M",
       "id": "4817",
       "attribute": "冰光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "盈盘衬怀乡",
       "source": "http://news.4399.com/seer/zenmezhua/202509-24-1007011.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "娜诺",
@@ -40777,5 +40801,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1759892519826
+  "timestamp": 1759979048461
 }
