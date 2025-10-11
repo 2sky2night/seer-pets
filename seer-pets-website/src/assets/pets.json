@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "贝尔恩克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007411.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/101649343464.jpg",
+      "detailId": "93767",
+      "keywords": "B",
+      "id": "4820",
+      "attribute": "暗影火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-10-1007409.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "巴姆",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007410.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/10164Z2AM.jpg",
+      "detailId": "2089",
+      "keywords": "B",
+      "id": "4821",
+      "attribute": "火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-10-1007408.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "福尔摩苏斯",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007335.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2510/0Z91S22a3.jpg",
@@ -8,9 +32,9 @@
       "keywords": "F",
       "id": "4818",
       "attribute": "光神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "天机解明",
       "source": "http://news.4399.com/seer/zenmezhua/202510-09-1007333.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "月桂小兔",
@@ -20,9 +44,9 @@
       "keywords": "Y",
       "id": "4819",
       "attribute": "光超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "月兔祝福",
       "source": "http://news.4399.com/seer/zenmezhua/202510-09-1007332.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "伊芙",
@@ -40801,5 +40825,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1760065492959
+  "timestamp": 1760151456642
 }
