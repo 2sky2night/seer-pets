@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "星光·里奥斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007511.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/15093G92D1.jpg",
+      "detailId": "2089",
+      "keywords": "X",
+      "id": "4822",
+      "attribute": "火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-15-1007507.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "雪璞",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007509.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/150936446063.jpg",
+      "detailId": "83526",
+      "keywords": "X",
+      "id": "4823",
+      "attribute": "自然冰",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-15-1007506.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "茸炘兔",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007508.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/1509361340Y.jpg",
+      "detailId": "2864",
+      "keywords": "R",
+      "id": "4824",
+      "attribute": "火超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-15-1007505.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "贝尔恩克",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007411.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2510/101649343464.jpg",
@@ -8,9 +44,9 @@
       "keywords": "B",
       "id": "4820",
       "attribute": "暗影火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "幽炎噬魂破",
       "source": "http://news.4399.com/seer/zenmezhua/202510-10-1007409.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "巴姆",
@@ -20,9 +56,9 @@
       "keywords": "B",
       "id": "4821",
       "attribute": "火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "炽热爆炎",
       "source": "http://news.4399.com/seer/zenmezhua/202510-10-1007408.html",
-      "raceValue": "暂无资料"
+      "raceValue": "692"
     },
     {
       "name": "福尔摩苏斯",
@@ -40825,5 +40861,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1760411116546
+  "timestamp": 1760497746823
 }
