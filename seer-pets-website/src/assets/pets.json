@@ -1,6 +1,66 @@
 {
   "pets": [
     {
+      "name": "卡布达",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007631.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/22091342IQ.jpg",
+      "detailId": "3182",
+      "keywords": "K",
+      "id": "4825",
+      "attribute": "电战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007626.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "鲨鱼辣椒",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007630.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/2209151M523.jpg",
+      "detailId": "29724",
+      "keywords": "S",
+      "id": "4826",
+      "attribute": "神秘战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007625.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "蜘蛛侦探",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007629.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/22091432WF.jpg",
+      "detailId": "9470",
+      "keywords": "X",
+      "id": "4827",
+      "attribute": "地面超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007624.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "蜻蜓队长",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007628.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/220914495351.jpg",
+      "detailId": "43902",
+      "keywords": "N",
+      "id": "4828",
+      "attribute": "电次元",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007623.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "卡布达超级形态",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007627.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/2209155D453.jpg",
+      "detailId": "3182",
+      "keywords": "K",
+      "id": "4829",
+      "attribute": "电战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007622.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "星光·里奥斯",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007511.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2510/15093G92D1.jpg",
@@ -8,9 +68,9 @@
       "keywords": "X",
       "id": "4822",
       "attribute": "火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "万焱归一决",
       "source": "http://news.4399.com/seer/zenmezhua/202510-15-1007507.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "雪璞",
@@ -20,9 +80,9 @@
       "keywords": "X",
       "id": "4823",
       "attribute": "自然冰",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "飞絮空澜没",
       "source": "http://news.4399.com/seer/zenmezhua/202510-15-1007506.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "茸炘兔",
@@ -32,9 +92,9 @@
       "keywords": "R",
       "id": "4824",
       "attribute": "火超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "热浪汇集",
       "source": "http://news.4399.com/seer/zenmezhua/202510-15-1007505.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "贝尔恩克",
@@ -40861,5 +40921,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1761016211169
+  "timestamp": 1761102919744
 }
