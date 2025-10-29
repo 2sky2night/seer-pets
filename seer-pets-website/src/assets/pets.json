@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "鲨鱼辣椒超级形态",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007760.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/2Q42S25943.jpg",
+      "detailId": "29724",
+      "keywords": "S",
+      "id": "4830",
+      "attribute": "神秘战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-28-1007757.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "蝎子莱莱",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007759.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/2Q42PD018.jpg",
+      "detailId": "2991",
+      "keywords": "X",
+      "id": "4831",
+      "attribute": "地暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-28-1007756.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "杜兰杜兰",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007758.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2510/2Q42HJ327.jpg",
+      "detailId": "35465",
+      "keywords": "D",
+      "id": "4832",
+      "attribute": "光暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202510-28-1007755.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "卡布达",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007631.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2510/22091342IQ.jpg",
@@ -8,9 +44,9 @@
       "keywords": "K",
       "id": "4825",
       "attribute": "电战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "高能电击棒",
       "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007626.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "鲨鱼辣椒",
@@ -20,9 +56,9 @@
       "keywords": "S",
       "id": "4826",
       "attribute": "神秘战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "鲨鱼斩舰刀",
       "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007625.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "蜘蛛侦探",
@@ -32,9 +68,9 @@
       "keywords": "X",
       "id": "4827",
       "attribute": "地面超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "投掷爪锚",
       "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007624.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "蜻蜓队长",
@@ -44,9 +80,9 @@
       "keywords": "N",
       "id": "4828",
       "attribute": "电次元",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "绝不意气用事",
       "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007623.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "卡布达超级形态",
@@ -56,9 +92,9 @@
       "keywords": "K",
       "id": "4829",
       "attribute": "电战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "超压雷击剑",
       "source": "http://news.4399.com/seer/zenmezhua/202510-22-1007622.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "星光·里奥斯",
@@ -40921,5 +40957,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1761621140290
+  "timestamp": 1761707976352
 }
