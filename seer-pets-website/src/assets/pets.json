@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "蟑螂恶霸",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007946.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/05112K164S.jpg",
+      "detailId": "3028",
+      "keywords": "Z",
+      "id": "4833",
+      "attribute": "战斗暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-05-1007945.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "鲨鱼辣椒超级形态",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007760.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2510/2Q42S25943.jpg",
@@ -8,9 +20,9 @@
       "keywords": "S",
       "id": "4830",
       "attribute": "神秘战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "断金鳍锋斩",
       "source": "http://news.4399.com/seer/zenmezhua/202510-28-1007757.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "蝎子莱莱",
@@ -20,9 +32,9 @@
       "keywords": "X",
       "id": "4831",
       "attribute": "地暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "鲎爪回旋镖",
       "source": "http://news.4399.com/seer/zenmezhua/202510-28-1007756.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "杜兰杜兰",
@@ -32,9 +44,9 @@
       "keywords": "D",
       "id": "4832",
       "attribute": "光暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "破隐缭乱刺",
       "source": "http://news.4399.com/seer/zenmezhua/202510-28-1007755.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "卡布达",
@@ -40957,5 +40969,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1762312568430
+  "timestamp": 1762399112657
 }
