@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "重装·派鲁基达",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008144.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/1414021962N.jpg",
+      "detailId": "2090",
+      "keywords": "Z",
+      "id": "4834",
+      "attribute": "机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008140.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "烟火派派",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008143.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/141429312L1.jpg",
+      "detailId": "108789",
+      "keywords": "Y",
+      "id": "4835",
+      "attribute": "机械火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008139.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "观星派派",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008142.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/1414001K103.jpg",
+      "detailId": "108799",
+      "keywords": "G",
+      "id": "4836",
+      "attribute": "水机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008138.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "保姆派派",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008141.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/14135939E62.jpg",
+      "detailId": "108798",
+      "keywords": "B",
+      "id": "4837",
+      "attribute": "草机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008137.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "蟑螂恶霸",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1007946.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2511/05112K164S.jpg",
@@ -8,9 +56,9 @@
       "keywords": "Z",
       "id": "4833",
       "attribute": "战斗暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "眼镜蛇鞭打",
       "source": "http://news.4399.com/seer/zenmezhua/202511-05-1007945.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "鲨鱼辣椒超级形态",
@@ -40969,5 +41017,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1763090255420
+  "timestamp": 1763176330372
 }
