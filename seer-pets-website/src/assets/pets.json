@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "笛科特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008324.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/241626264231.jpg",
+      "detailId": "3014",
+      "keywords": "D",
+      "id": "4838",
+      "attribute": "机械超能",
+      "proprietarySkill": "全方位解析",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-24-1008325.html",
+      "raceValue": "735"
+    },
+    {
       "name": "重装·派鲁基达",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008144.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2511/1414021962N.jpg",
@@ -8,9 +20,9 @@
       "keywords": "Z",
       "id": "4834",
       "attribute": "机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "神风烈冲击",
       "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008140.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "烟火派派",
@@ -20,9 +32,9 @@
       "keywords": "Y",
       "id": "4835",
       "attribute": "机械火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "礼炮大合奏",
       "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008139.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "观星派派",
@@ -32,9 +44,9 @@
       "keywords": "G",
       "id": "4836",
       "attribute": "水机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "空与幻之辉",
       "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008138.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "保姆派派",
@@ -44,9 +56,9 @@
       "keywords": "B",
       "id": "4837",
       "attribute": "草机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "派派大扫除",
       "source": "http://news.4399.com/seer/zenmezhua/202511-14-1008137.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "蟑螂恶霸",
@@ -41017,5 +41029,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1763955438802
+  "timestamp": 1764040775270
 }
