@@ -1,6 +1,66 @@
 {
   "pets": [
     {
+      "name": "麦迪亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008348.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/2513501U013.jpg",
+      "detailId": "2094",
+      "keywords": "M",
+      "id": "4839",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008353.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "霞冠·星礼",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008347.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/251349425500.jpg",
+      "detailId": "43493",
+      "keywords": "X",
+      "id": "4840",
+      "attribute": "自然战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008352.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "凯莫兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008346.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/251349143547.jpg",
+      "detailId": "49382",
+      "keywords": "K",
+      "id": "4841",
+      "attribute": "远古地面",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008351.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "雷漠克怪",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008345.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/25134TH144.jpg",
+      "detailId": "2991",
+      "keywords": "L",
+      "id": "4842",
+      "attribute": "地暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008350.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "辛德拉缇",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008344.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2511/25134I35939.jpg",
+      "detailId": "32856",
+      "keywords": "X",
+      "id": "4843",
+      "attribute": "光次元",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008349.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "笛科特",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008324.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2511/241626264231.jpg",
@@ -41029,5 +41089,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1764040775270
+  "timestamp": 1764127160501
 }
