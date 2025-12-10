@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "白图泰",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008721.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/0915543624X.jpg",
+      "detailId": "49381",
+      "keywords": "B",
+      "id": "4845",
+      "attribute": "光超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-09-1008718.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "米鲁妹妹",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008720.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/091554045447.jpg",
+      "detailId": "2092",
+      "keywords": "M",
+      "id": "4846",
+      "attribute": "冰雪",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-09-1008717.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "蘑蘑蜗",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008719.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/0915530QB3.jpg",
+      "detailId": "2093",
+      "keywords": "M",
+      "id": "4847",
+      "attribute": "草",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-09-1008716.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "沙弑·吉拉",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008558.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/021346311M7.jpg",
+      "detailId": "5869",
+      "keywords": "S",
+      "id": "4844",
+      "attribute": "暗影神秘",
+      "proprietarySkill": "飞刃断魂袭",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-02-1008557.html",
+      "raceValue": "735"
+    },
+    {
       "name": "麦迪亚",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008348.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2511/2513501U013.jpg",
@@ -8,9 +56,9 @@
       "keywords": "M",
       "id": "4839",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "咆哮裂地劈",
       "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008353.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "霞冠·星礼",
@@ -20,9 +68,9 @@
       "keywords": "X",
       "id": "4840",
       "attribute": "自然战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "礼·万星垂弦",
       "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008352.html",
-      "raceValue": "暂无资料"
+      "raceValue": "745"
     },
     {
       "name": "凯莫兽",
@@ -32,9 +80,9 @@
       "keywords": "K",
       "id": "4841",
       "attribute": "远古地面",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "怒吼急冲",
       "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008351.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "雷漠克怪",
@@ -44,9 +92,9 @@
       "keywords": "L",
       "id": "4842",
       "attribute": "地暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "怒兽奔袭冲",
       "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008350.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "辛德拉缇",
@@ -56,9 +104,9 @@
       "keywords": "X",
       "id": "4843",
       "attribute": "光次元",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "历理诉剑光",
       "source": "http://news.4399.com/seer/zenmezhua/202511-25-1008349.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "笛科特",
@@ -41089,5 +41137,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1765250586194
+  "timestamp": 1765337241227
 }
