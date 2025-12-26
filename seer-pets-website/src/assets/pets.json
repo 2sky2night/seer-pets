@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "梅赫维特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009077.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/2410020C244.jpg",
+      "detailId": "109538",
+      "keywords": "M",
+      "id": "4853",
+      "attribute": "远古光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009081.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "图特摩斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009076.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/2409594Y614.jpg",
+      "detailId": "2840",
+      "keywords": "T",
+      "id": "4850",
+      "attribute": "战斗地面",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009080.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "奥斯朗",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009075.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/24095913L37.jpg",
+      "detailId": "2863",
+      "keywords": "A",
+      "id": "4851",
+      "attribute": "光飞行",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009079.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "薇",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009074.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/24095TJ046.jpg",
+      "detailId": "2435",
+      "keywords": "W",
+      "id": "4852",
+      "attribute": "光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009078.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "谜之英雄",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1008913.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2512/1G435132327.jpg",
@@ -8,9 +56,9 @@
       "keywords": "M",
       "id": "4848",
       "attribute": "光神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "寄予无名之枪",
       "source": "http://news.4399.com/seer/zenmezhua/202512-17-1008911.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "暖冬小貂",
@@ -20,9 +68,9 @@
       "keywords": "N",
       "id": "4849",
       "attribute": "冰飞行",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "终极大礼",
       "source": "http://news.4399.com/seer/zenmezhua/202512-17-1008910.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "白图泰",
@@ -41161,5 +41209,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1766634023958
+  "timestamp": 1766720306427
 }
