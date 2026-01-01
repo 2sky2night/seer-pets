@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "西忒蕾妃",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009325.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/311J9434C6.jpg",
+      "detailId": "2093",
+      "keywords": "X",
+      "id": "4854",
+      "attribute": "草",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-31-1009322.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "祖帕",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009324.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/311J91J062.jpg",
+      "detailId": "2433",
+      "keywords": "Z",
+      "id": "4855",
+      "attribute": "超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-31-1009321.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "帕罗科",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009323.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2512/311JU5b05.jpg",
+      "detailId": "2433",
+      "keywords": "P",
+      "id": "4856",
+      "attribute": "超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202512-31-1009320.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "梅赫维特",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009077.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2512/2410020C244.jpg",
@@ -8,9 +44,9 @@
       "keywords": "M",
       "id": "4853",
       "attribute": "远古光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "长叹·天人命途",
       "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009081.html",
-      "raceValue": "暂无资料"
+      "raceValue": "810"
     },
     {
       "name": "图特摩斯",
@@ -20,9 +56,9 @@
       "keywords": "T",
       "id": "4850",
       "attribute": "战斗地面",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "断沙斩",
       "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009080.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "奥斯朗",
@@ -32,21 +68,21 @@
       "keywords": "A",
       "id": "4851",
       "attribute": "光飞行",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "喧哗禁止",
       "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009079.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
-      "name": "薇",
+      "name": "萌芽之薇",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009074.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2512/24095TJ046.jpg",
       "detailId": "2435",
-      "keywords": "W",
+      "keywords": "M",
       "id": "4852",
       "attribute": "光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "简律童歌",
       "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009078.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "谜之英雄",
@@ -41209,5 +41245,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1767152476012
+  "timestamp": 1767239659797
 }
