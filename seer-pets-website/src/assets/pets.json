@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "希尔瑟拉",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009544.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/131I3443258.jpg",
+      "detailId": "79166",
+      "keywords": "X",
+      "id": "4860",
+      "attribute": "远古邪灵",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-13-1009540.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "涂蝶",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009543.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/131I0332Q1.jpg",
+      "detailId": "62722",
+      "keywords": "T",
+      "id": "4861",
+      "attribute": "神秘超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-13-1009539.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "纷争之薇",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009542.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/131I00CM5.jpg",
+      "detailId": "2092",
+      "keywords": "F",
+      "id": "4862",
+      "attribute": "冰雪",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-13-1009538.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "戟决先锋",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009369.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2601/061A6143193.jpg",
@@ -8,9 +44,9 @@
       "keywords": "J",
       "id": "4857",
       "attribute": "冰暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "破冰反击",
       "source": "http://news.4399.com/seer/zenmezhua/202601-06-1009372.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "灯蛾",
@@ -20,9 +56,9 @@
       "keywords": "D",
       "id": "4858",
       "attribute": "冰光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "俯冲突袭",
       "source": "http://news.4399.com/seer/zenmezhua/202601-06-1009371.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "闪光灯蛾",
@@ -32,9 +68,9 @@
       "keywords": "S",
       "id": "4859",
       "attribute": "冰光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "冻羽冲击",
       "source": "http://news.4399.com/seer/zenmezhua/202601-04-1009339.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "西忒蕾妃",
@@ -44,7 +80,7 @@
       "keywords": "X",
       "id": "4854",
       "attribute": "草",
-      "proprietarySkill": "苦痛嫁接",
+      "proprietarySkill": "草绿唤春来",
       "source": "http://news.4399.com/seer/zenmezhua/202512-31-1009322.html",
       "raceValue": "735"
     },
@@ -92,7 +128,7 @@
       "keywords": "T",
       "id": "4850",
       "attribute": "战斗地面",
-      "proprietarySkill": "断沙斩",
+      "proprietarySkill": "破军灭魂袭",
       "source": "http://news.4399.com/seer/zenmezhua/202512-24-1009080.html",
       "raceValue": "740"
     },
@@ -41281,5 +41317,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1768275767666
+  "timestamp": 1768362712099
 }
