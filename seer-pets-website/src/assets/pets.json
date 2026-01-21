@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "艾莉安娜",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009693.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/201GIV440.jpg",
+      "detailId": "94652",
+      "keywords": "A",
+      "id": "4863",
+      "attribute": "虫",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-20-1009682.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "格拉西恩",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009692.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/201GG43361.jpg",
+      "detailId": "3273",
+      "keywords": "G",
+      "id": "4864",
+      "attribute": "冰龙",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-20-1009681.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "超维·瑞泽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009691.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/201G63cU2.jpg",
+      "detailId": "29734",
+      "keywords": "C",
+      "id": "4865",
+      "attribute": "次元战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-20-1009680.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "希尔瑟拉",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009544.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2601/131I3443258.jpg",
@@ -8,9 +44,9 @@
       "keywords": "X",
       "id": "4860",
       "attribute": "远古邪灵",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "隐迹迷踪",
       "source": "http://news.4399.com/seer/zenmezhua/202601-13-1009540.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "涂蝶",
@@ -20,9 +56,9 @@
       "keywords": "T",
       "id": "4861",
       "attribute": "神秘超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "赤绘",
       "source": "http://news.4399.com/seer/zenmezhua/202601-13-1009539.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "纷争之薇",
@@ -32,9 +68,9 @@
       "keywords": "F",
       "id": "4862",
       "attribute": "冰雪",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "折光淬雪",
       "source": "http://news.4399.com/seer/zenmezhua/202601-13-1009538.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "戟决先锋",
@@ -41317,5 +41353,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1768880916958
+  "timestamp": 1768967278696
 }
