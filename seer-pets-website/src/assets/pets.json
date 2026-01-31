@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "埃斯宾诺",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010249.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/301635109417.jpg",
+      "detailId": "94652",
+      "keywords": "A",
+      "id": "4866",
+      "attribute": "虫",
+      "proprietarySkill": "灵足烈贯",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-30-1010250.html",
+      "raceValue": "740"
+    },
+    {
+      "name": "西格恩",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010248.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/301634461358.jpg",
+      "detailId": "109014",
+      "keywords": "X",
+      "id": "4867",
+      "attribute": "圣灵飞行",
+      "proprietarySkill": "净者神性",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-30-1010244.html",
+      "raceValue": "715"
+    },
+    {
+      "name": "西塞萝",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010246.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/301634162520.jpg",
+      "detailId": "35076",
+      "keywords": "X",
+      "id": "4868",
+      "attribute": "光火",
+      "proprietarySkill": "曜火抽绎",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-30-1010243.html",
+      "raceValue": "720"
+    },
+    {
+      "name": "颅腹虫",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010245.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2601/301633411O9.jpg",
+      "detailId": "2437",
+      "keywords": "L",
+      "id": "4869",
+      "attribute": "神秘",
+      "proprietarySkill": "脑髓地狱",
+      "source": "http://news.4399.com/seer/zenmezhua/202601-30-1010242.html",
+      "raceValue": "700"
+    },
+    {
       "name": "艾莉安娜",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1009693.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2601/201GIV440.jpg",
@@ -8,9 +56,9 @@
       "keywords": "A",
       "id": "4863",
       "attribute": "虫",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "万籁归寂",
       "source": "http://news.4399.com/seer/zenmezhua/202601-20-1009682.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "格拉西恩",
@@ -20,9 +68,9 @@
       "keywords": "G",
       "id": "4864",
       "attribute": "冰龙",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "断霜扫",
       "source": "http://news.4399.com/seer/zenmezhua/202601-20-1009681.html",
-      "raceValue": "暂无资料"
+      "raceValue": "715"
     },
     {
       "name": "超维·瑞泽",
@@ -32,9 +80,9 @@
       "keywords": "C",
       "id": "4865",
       "attribute": "次元战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "刹那天迁",
       "source": "http://news.4399.com/seer/zenmezhua/202601-20-1009680.html",
-      "raceValue": "暂无资料"
+      "raceValue": "745"
     },
     {
       "name": "希尔瑟拉",
@@ -41353,5 +41401,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1769746420657
+  "timestamp": 1769832564764
 }
