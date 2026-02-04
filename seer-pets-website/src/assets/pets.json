@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "康迪亚克",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010310.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/03155F551D.jpg",
+      "detailId": "2094",
+      "keywords": "K",
+      "id": "4870",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-03-1010309.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "埃斯宾诺",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010249.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2601/301635109417.jpg",
@@ -41401,5 +41413,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1770092417980
+  "timestamp": 1770178475771
 }
