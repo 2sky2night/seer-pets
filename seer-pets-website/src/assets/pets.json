@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "嘲风",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010740.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/13145T12296.jpg",
+      "detailId": "3993",
+      "keywords": "C",
+      "id": "4871",
+      "attribute": "飞行火",
+      "proprietarySkill": "天叩·千钧一发",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-13-1010737.html",
+      "raceValue": "760"
+    },
+    {
+      "name": "妙时天女",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010739.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/13145Q03563.jpg",
+      "detailId": "109591",
+      "keywords": "M",
+      "id": "4872",
+      "attribute": "混沌光",
+      "proprietarySkill": "万觉心法界镇",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-13-1010736.html",
+      "raceValue": "760"
+    },
+    {
+      "name": "宵灵·午驹",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010738.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/131445442450.jpg",
+      "detailId": "2088",
+      "keywords": "X",
+      "id": "4873",
+      "attribute": "飞行",
+      "proprietarySkill": "绝招·马踏飞燕",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-13-1010735.html",
+      "raceValue": "700"
+    },
+    {
       "name": "康迪亚克",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010310.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2602/03155F551D.jpg",
@@ -8,9 +44,9 @@
       "keywords": "K",
       "id": "4870",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "感·万绪入魂",
       "source": "http://news.4399.com/seer/zenmezhua/202602-03-1010309.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "埃斯宾诺",
@@ -41413,5 +41449,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1770956759326
+  "timestamp": 1771042480334
 }
