@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "瓏首",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010805.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/2409201ER3.jpg",
+      "detailId": "6407",
+      "keywords": "L",
+      "id": "4874",
+      "attribute": "远古",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-24-1010804.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "永烬劫炎·上古炎兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010806.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/2409205U4I.jpg",
+      "detailId": "2089",
+      "keywords": "Y",
+      "id": "4875",
+      "attribute": "火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-24-1010803.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "嘲风",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010740.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2602/13145T12296.jpg",
@@ -41449,5 +41473,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1771820968509
+  "timestamp": 1771907027817
 }
