@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "方术悠悠",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010880.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/26104S23033.jpg",
+      "detailId": "2435",
+      "keywords": "F",
+      "id": "4876",
+      "attribute": "光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-26-1010877.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "锢魂铁犀",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010879.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/26104K423H.jpg",
+      "detailId": "108798",
+      "keywords": "G",
+      "id": "4877",
+      "attribute": "草机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-26-1010876.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "灯珑鱼",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010878.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2602/261046446114.jpg",
+      "detailId": "49381",
+      "keywords": "D",
+      "id": "4878",
+      "attribute": "光超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202602-26-1010875.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "瓏首",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010805.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2602/2409201ER3.jpg",
@@ -8,9 +44,9 @@
       "keywords": "L",
       "id": "4874",
       "attribute": "远古",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "啸风穿云击",
       "source": "http://news.4399.com/seer/zenmezhua/202602-24-1010804.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "永烬劫炎·上古炎兽",
@@ -20,9 +56,9 @@
       "keywords": "Y",
       "id": "4875",
       "attribute": "火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "鏖火证阳炎",
       "source": "http://news.4399.com/seer/zenmezhua/202602-24-1010803.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "嘲风",
@@ -41473,5 +41509,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1771993525209
+  "timestamp": 1772079729802
 }
