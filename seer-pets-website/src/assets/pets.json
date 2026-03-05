@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "阿塔塔",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010981.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/0414240C0C.jpg",
+      "detailId": "2435",
+      "keywords": "A",
+      "id": "4879",
+      "attribute": "光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-04-1010984.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "洛欧蒂",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010980.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/04141RW3D.jpg",
+      "detailId": "29418",
+      "keywords": "L",
+      "id": "4880",
+      "attribute": "光战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-04-1010983.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "阿拿拿",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010979.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/04141P2D57.jpg",
+      "detailId": "2094",
+      "keywords": "A",
+      "id": "4881",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-04-1010982.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "方术悠悠",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010880.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2602/26104S23033.jpg",
@@ -8,9 +44,9 @@
       "keywords": "F",
       "id": "4876",
       "attribute": "光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "浩气诛邪决",
       "source": "http://news.4399.com/seer/zenmezhua/202602-26-1010877.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "锢魂铁犀",
@@ -20,9 +56,9 @@
       "keywords": "G",
       "id": "4877",
       "attribute": "草机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "破甲角刺",
       "source": "http://news.4399.com/seer/zenmezhua/202602-26-1010876.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "灯珑鱼",
@@ -32,9 +68,9 @@
       "keywords": "D",
       "id": "4878",
       "attribute": "光超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "福星延年",
       "source": "http://news.4399.com/seer/zenmezhua/202602-26-1010875.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "瓏首",
@@ -41509,5 +41545,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1772597606546
+  "timestamp": 1772684269339
 }
