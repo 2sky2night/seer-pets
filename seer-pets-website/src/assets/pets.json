@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "阿波波",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011203.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/1215232S924.jpg",
+      "detailId": "2434",
+      "keywords": "A",
+      "id": "4882",
+      "attribute": "战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-12-1011206.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "薇奥莱特",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011202.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/12152300S12.jpg",
+      "detailId": "87397",
+      "keywords": "W",
+      "id": "4883",
+      "attribute": "混沌超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-12-1011205.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "拓本-ε",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011201.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/12152233a36.jpg",
+      "detailId": "2090",
+      "keywords": "T",
+      "id": "4884",
+      "attribute": "机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-12-1011204.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "阿塔塔",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1010981.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2603/0414240C0C.jpg",
@@ -8,9 +44,9 @@
       "keywords": "A",
       "id": "4879",
       "attribute": "光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "烁光灼目波",
       "source": "http://news.4399.com/seer/zenmezhua/202603-04-1010984.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "洛欧蒂",
@@ -20,9 +56,9 @@
       "keywords": "L",
       "id": "4880",
       "attribute": "光战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "光耀破阵冲",
       "source": "http://news.4399.com/seer/zenmezhua/202603-04-1010983.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "阿拿拿",
@@ -32,9 +68,9 @@
       "keywords": "A",
       "id": "4881",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "烈爪猛袭",
       "source": "http://news.4399.com/seer/zenmezhua/202603-04-1010982.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "方术悠悠",
@@ -41545,5 +41581,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1773289156089
+  "timestamp": 1773375495217
 }
