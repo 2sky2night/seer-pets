@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "灰蛾",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011384.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/20164K29236.jpg",
+      "detailId": "94652",
+      "keywords": "H",
+      "id": "4885",
+      "attribute": "虫",
+      "proprietarySkill": "灰翼葬魂斩",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-20-1011385.html",
+      "raceValue": "740"
+    },
+    {
       "name": "阿波波",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011203.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2603/1215232S924.jpg",
@@ -8,9 +20,9 @@
       "keywords": "A",
       "id": "4882",
       "attribute": "战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "粉红波波拳",
       "source": "http://news.4399.com/seer/zenmezhua/202603-12-1011206.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "薇奥莱特",
@@ -20,9 +32,9 @@
       "keywords": "W",
       "id": "4883",
       "attribute": "混沌超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "恐惧收割",
       "source": "http://news.4399.com/seer/zenmezhua/202603-12-1011205.html",
-      "raceValue": "暂无资料"
+      "raceValue": "715"
     },
     {
       "name": "拓本-ε",
@@ -32,9 +44,9 @@
       "keywords": "T",
       "id": "4884",
       "attribute": "机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "逆运算指令",
       "source": "http://news.4399.com/seer/zenmezhua/202603-12-1011204.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "阿塔塔",
@@ -41581,5 +41593,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1773980402811
+  "timestamp": 1774066165230
 }
