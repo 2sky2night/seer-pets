@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "阿华华",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011546.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/2GJ54cG1.jpg",
+      "detailId": "2093",
+      "keywords": "A",
+      "id": "4886",
+      "attribute": "草",
+      "proprietarySkill": "生机衰弱波",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-27-1011545.html",
+      "raceValue": "735"
+    },
+    {
       "name": "灰蛾",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011384.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2603/20164K29236.jpg",
@@ -41593,5 +41605,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1774586306599
+  "timestamp": 1774671976666
 }
