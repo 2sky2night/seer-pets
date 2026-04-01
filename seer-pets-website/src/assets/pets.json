@@ -1,6 +1,66 @@
 {
   "pets": [
     {
+      "name": "托勒斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011591.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/311K040c28.jpg",
+      "detailId": "37377",
+      "keywords": "T",
+      "id": "4887",
+      "attribute": "自然",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011586.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "慈辉永颂·瑞亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011590.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/311K00S031.jpg",
+      "detailId": "2435",
+      "keywords": "C",
+      "id": "4888",
+      "attribute": "光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011585.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "初诞之薇",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011589.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/311J933H22.jpg",
+      "detailId": "37377",
+      "keywords": "C",
+      "id": "4889",
+      "attribute": "自然",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011584.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "迪利吉",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011588.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/311JZ02609.jpg",
+      "detailId": "5868",
+      "keywords": "D",
+      "id": "4892",
+      "attribute": "光神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011583.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "摩耶",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011587.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2603/311JR59201.jpg",
+      "detailId": "2432",
+      "keywords": "M",
+      "id": "4893",
+      "attribute": "普通",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011582.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "阿华华",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011546.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2603/2GJ54cG1.jpg",
@@ -1700,9 +1760,9 @@
       "keywords": "X",
       "id": "4743",
       "attribute": "地",
-      "proprietarySkill": "五彩芒星",
+      "proprietarySkill": "风砂暴击",
       "source": "http://news.4399.com/seer/zenmezhua/202504-03-1002427.html",
-      "raceValue": "735"
+      "raceValue": "740"
     },
     {
       "name": "皎梦·悠悠",
@@ -41605,5 +41665,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1774932077822
+  "timestamp": 1775019102005
 }
