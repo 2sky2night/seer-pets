@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "B-12",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011743.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2604/0Q0003941J.jpg",
+      "detailId": "2827",
+      "keywords": "B",
+      "id": "4890",
+      "attribute": "地面机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202604-08-1011741.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "灰烬之灵",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011742.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2604/0Q000015R5.jpg",
+      "detailId": "2094",
+      "keywords": "H",
+      "id": "4891",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202604-08-1011740.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "托勒斯",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011591.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2603/311K040c28.jpg",
@@ -8,9 +32,9 @@
       "keywords": "T",
       "id": "4887",
       "attribute": "自然",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "谐·万灵归一",
       "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011586.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "慈辉永颂·瑞亚",
@@ -20,9 +44,9 @@
       "keywords": "C",
       "id": "4888",
       "attribute": "光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "慈恩宣叙调",
       "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011585.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "初诞之薇",
@@ -32,9 +56,9 @@
       "keywords": "C",
       "id": "4889",
       "attribute": "自然",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "初诞·始源胎动",
       "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011584.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "迪利吉",
@@ -44,9 +68,9 @@
       "keywords": "D",
       "id": "4892",
       "attribute": "光神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "方案提交",
       "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011583.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "摩耶",
@@ -56,9 +80,9 @@
       "keywords": "M",
       "id": "4893",
       "attribute": "普通",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "萌爪连闪",
       "source": "http://news.4399.com/seer/zenmezhua/202603-31-1011582.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "阿华华",
@@ -41665,5 +41689,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1775536704589
+  "timestamp": 1775623344326
 }
