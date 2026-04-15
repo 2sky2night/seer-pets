@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "安瑟伦",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011858.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2604/151003594F0.jpg",
+      "detailId": "2436",
+      "keywords": "A",
+      "id": "4894",
+      "attribute": "暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202604-15-1011855.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "喧云",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011857.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2604/1510032T091.jpg",
+      "detailId": "96655",
+      "keywords": "X",
+      "id": "4895",
+      "attribute": "飞行电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202604-15-1011854.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "朝圣者",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011856.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2604/151002294961.jpg",
+      "detailId": "2090",
+      "keywords": "C",
+      "id": "4896",
+      "attribute": "机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202604-15-1011853.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "B-12",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011743.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2604/0Q0003941J.jpg",
@@ -8,9 +44,9 @@
       "keywords": "B",
       "id": "4890",
       "attribute": "地面机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "重甲爆破拳",
       "source": "http://news.4399.com/seer/zenmezhua/202604-08-1011741.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "灰烬之灵",
@@ -20,9 +56,9 @@
       "keywords": "H",
       "id": "4891",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "灰烬冲击波",
       "source": "http://news.4399.com/seer/zenmezhua/202604-08-1011740.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "托勒斯",
@@ -41689,5 +41725,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1776142194533
+  "timestamp": 1776228618691
 }
