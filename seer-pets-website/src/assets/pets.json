@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "西蒙妮",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012064.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2604/211549325c2.jpg",
+      "detailId": "2904",
+      "keywords": "X",
+      "id": "4897",
+      "attribute": "火电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202604-21-1012060.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "安瑟伦",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1011858.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2604/151003594F0.jpg",
@@ -8,9 +20,9 @@
       "keywords": "A",
       "id": "4894",
       "attribute": "暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "信·惊悸神罚",
       "source": "http://news.4399.com/seer/zenmezhua/202604-15-1011855.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "喧云",
@@ -20,9 +32,9 @@
       "keywords": "X",
       "id": "4895",
       "attribute": "飞行电",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "天颂文·歌不落",
       "source": "http://news.4399.com/seer/zenmezhua/202604-15-1011854.html",
-      "raceValue": "暂无资料"
+      "raceValue": "745"
     },
     {
       "name": "朝圣者",
@@ -32,9 +44,9 @@
       "keywords": "C",
       "id": "4896",
       "attribute": "机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "高热激光",
       "source": "http://news.4399.com/seer/zenmezhua/202604-15-1011853.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "B-12",
@@ -41725,5 +41737,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1776747175575
+  "timestamp": 1776833461085
 }
