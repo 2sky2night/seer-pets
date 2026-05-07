@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "特维耶",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012382.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2605/061433421019.jpg",
+      "detailId": "2434",
+      "keywords": "T",
+      "id": "4901",
+      "attribute": "战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202605-06-1012383.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "百罗鬼帝",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012193.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2604/2Q15040Z47.jpg",
@@ -8,9 +20,9 @@
       "keywords": "B",
       "id": "4444",
       "attribute": "神秘战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "蔑天行·戾杀",
       "source": "http://news.4399.com/seer/zenmezhua/202604-28-1012189.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "教皇",
@@ -20,9 +32,9 @@
       "keywords": "J",
       "id": "4898",
       "attribute": "地面机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "万条赝手的拥怀",
       "source": "http://news.4399.com/seer/zenmezhua/202604-28-1012188.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "荣光之薇",
@@ -32,9 +44,9 @@
       "keywords": "R",
       "id": "4899",
       "attribute": "超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "荣光·盛阳礼赞",
       "source": "http://news.4399.com/seer/zenmezhua/202604-28-1012187.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "布洛斯奇",
@@ -42,11 +54,11 @@
       "img": "//newsimg.5054399.com/uploads/userup/2604/2Q149101c9.jpg",
       "detailId": "49381",
       "keywords": "B",
-      "id": "4890",
+      "id": "4900",
       "attribute": "光超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "强势罢谈",
       "source": "http://news.4399.com/seer/zenmezhua/202604-28-1012186.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "西蒙妮",
@@ -41785,5 +41797,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1778045695910
+  "timestamp": 1778132242841
 }
