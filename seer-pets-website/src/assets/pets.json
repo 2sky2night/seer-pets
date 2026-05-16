@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "莱布缇",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012593.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2605/1515135D353.jpg",
+      "detailId": "2435",
+      "keywords": "L",
+      "id": "4902",
+      "attribute": "光",
+      "proprietarySkill": "自·万物定理",
+      "source": "http://news.4399.com/seer/zenmezhua/202605-15-1012591.html",
+      "raceValue": "740"
+    },
+    {
+      "name": "帝录天锋",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012592.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2605/151513263296.jpg",
+      "detailId": "26781",
+      "keywords": "D",
+      "id": "4903",
+      "attribute": "远古战斗",
+      "proprietarySkill": "万苍书帝录",
+      "source": "http://news.4399.com/seer/zenmezhua/202605-15-1012590.html",
+      "raceValue": "745"
+    },
+    {
       "name": "特维耶",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012382.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2605/061433421019.jpg",
@@ -8,9 +32,9 @@
       "keywords": "T",
       "id": "4901",
       "attribute": "战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "枪火革命",
       "source": "http://news.4399.com/seer/zenmezhua/202605-06-1012383.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "百罗鬼帝",
@@ -41797,5 +41821,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1778824802922
+  "timestamp": 1778909531464
 }
