@@ -1,6 +1,18 @@
 {
   "pets": [
     {
+      "name": "小珍妮",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012639.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2605/261400259537.jpg",
+      "detailId": "2090",
+      "keywords": "X",
+      "id": "4904",
+      "attribute": "机械",
+      "proprietarySkill": "迷途指反",
+      "source": "http://news.4399.com/seer/zenmezhua/202605-20-1012638.html",
+      "raceValue": "735"
+    },
+    {
       "name": "莱布缇",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012593.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2605/1515135D353.jpg",
@@ -41821,5 +41833,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1779691320858
+  "timestamp": 1779775989115
 }
