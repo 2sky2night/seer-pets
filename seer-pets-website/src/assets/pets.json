@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "西西弗",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012748.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2605/261H44S923.jpg",
+      "detailId": "2092",
+      "keywords": "X",
+      "id": "4905",
+      "attribute": "冰雪",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202605-26-1012751.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "阿西列维",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012747.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2605/261H40C249.jpg",
+      "detailId": "35465",
+      "keywords": "A",
+      "id": "4906",
+      "attribute": "光暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202605-26-1012750.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "佩提",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012746.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2605/261H33E1T.jpg",
+      "detailId": "51703",
+      "keywords": "P",
+      "id": "4907",
+      "attribute": "自然龙",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202605-26-1012749.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "小珍妮",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012639.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2605/261400259537.jpg",
@@ -41833,5 +41869,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1779775989115
+  "timestamp": 1779863702123
 }
