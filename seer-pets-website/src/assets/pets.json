@@ -1,6 +1,66 @@
 {
   "pets": [
     {
+      "name": "薇尔诗",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013002.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/0P92Q11K3.jpg",
+      "detailId": "86547",
+      "keywords": "W",
+      "id": "4000",
+      "attribute": "神灵",
+      "proprietarySkill": "雷之脉动",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-08-1012997.html",
+      "raceValue": "800"
+    },
+    {
+      "name": "蕊沃尔",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013001.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/0P92J56460.jpg",
+      "detailId": "2089",
+      "keywords": "R",
+      "id": "4908",
+      "attribute": "火",
+      "proprietarySkill": "雷之脉动",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-08-1012996.html",
+      "raceValue": "740"
+    },
+    {
+      "name": "钢傀",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013000.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/0P92G33617.jpg",
+      "detailId": "96545",
+      "keywords": "G",
+      "id": "4909",
+      "attribute": "机械战斗",
+      "proprietarySkill": "雷之脉动",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-08-1012995.html",
+      "raceValue": "745"
+    },
+    {
+      "name": "波动态幽魂",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012999.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/0P92641B96.jpg",
+      "detailId": "2436",
+      "keywords": "B",
+      "id": "4910",
+      "attribute": "暗影",
+      "proprietarySkill": "雷之脉动",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-08-1012994.html",
+      "raceValue": "700"
+    },
+    {
+      "name": "星光·艾欧丽娅",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012998.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/0P926125236.jpg",
+      "detailId": "83526",
+      "keywords": "X",
+      "id": "4911",
+      "attribute": "自然冰",
+      "proprietarySkill": "雷之脉动",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-08-1012993.html",
+      "raceValue": "760"
+    },
+    {
       "name": "西西弗",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1012748.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2605/261H44S923.jpg",
@@ -8,9 +68,9 @@
       "keywords": "X",
       "id": "4905",
       "attribute": "冰雪",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "雷之脉动",
       "source": "http://news.4399.com/seer/zenmezhua/202605-26-1012751.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "阿西列维",
@@ -20,9 +80,9 @@
       "keywords": "A",
       "id": "4906",
       "attribute": "光暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "雷之脉动",
       "source": "http://news.4399.com/seer/zenmezhua/202605-26-1012750.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "佩提",
@@ -32,9 +92,9 @@
       "keywords": "P",
       "id": "4907",
       "attribute": "自然龙",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "雷之脉动",
       "source": "http://news.4399.com/seer/zenmezhua/202605-26-1012749.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "小珍妮",
@@ -41869,5 +41929,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1780814207262
+  "timestamp": 1780901576535
 }
