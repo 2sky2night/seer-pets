@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "夏哆",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013038.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/091516153242.jpg",
+      "detailId": "35465",
+      "keywords": "X",
+      "id": "4913",
+      "attribute": "光暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-09-1013041.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "奇灵画像",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013037.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/091515362004.jpg",
+      "detailId": "2433",
+      "keywords": "Q",
+      "id": "4914",
+      "attribute": "超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-09-1013040.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "薇尔诗",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013002.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2606/0P92Q11K3.jpg",
@@ -41929,5 +41953,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1780985713323
+  "timestamp": 1781073480098
 }
