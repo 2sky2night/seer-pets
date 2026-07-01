@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "影行者",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013595.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/3014541U1Z.jpg",
+      "detailId": "3028",
+      "keywords": "Y",
+      "id": "4917",
+      "attribute": "战斗暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-30-1013593.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "波比提尔",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013594.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/3014534a1b.jpg",
+      "detailId": "2824",
+      "keywords": "B",
+      "id": "4918",
+      "attribute": "水暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-30-1013592.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "若兰",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013331.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/2409433454H.jpg",
+      "detailId": "74490",
+      "keywords": "R",
+      "id": "4916",
+      "attribute": "冰飞行",
+      "proprietarySkill": "冰结飞羽击",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-24-1013330.html",
+      "raceValue": "735"
+    },
+    {
+      "name": "西曼德妮",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013259.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2606/1P9220953H.jpg",
+      "detailId": "2439",
+      "keywords": "X",
+      "id": "4915",
+      "attribute": "圣灵",
+      "proprietarySkill": "创·黄金纪元",
+      "source": "http://news.4399.com/seer/zenmezhua/202606-18-1013258.html",
+      "raceValue": "740"
+    },
+    {
       "name": "生之焰·灰蛾",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013039.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2606/091544195162.jpg",
@@ -8,9 +56,9 @@
       "keywords": "S",
       "id": "4912",
       "attribute": "火虫",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "告天堂的残灰",
       "source": "http://news.4399.com/seer/zenmezhua/202606-09-1013042.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "夏哆",
@@ -20,9 +68,9 @@
       "keywords": "X",
       "id": "4913",
       "attribute": "光暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "半醒",
       "source": "http://news.4399.com/seer/zenmezhua/202606-09-1013041.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "奇灵画像",
@@ -32,9 +80,9 @@
       "keywords": "Q",
       "id": "4914",
       "attribute": "超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "纷繁忘我",
       "source": "http://news.4399.com/seer/zenmezhua/202606-09-1013040.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "薇尔诗",
@@ -41965,5 +42013,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1782800385816
+  "timestamp": 1782887986800
 }
