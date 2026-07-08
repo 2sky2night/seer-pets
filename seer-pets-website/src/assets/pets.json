@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "卡鲁维德",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013843.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/0P9112cV4.jpg",
+      "detailId": "99479",
+      "keywords": "K",
+      "id": "4919",
+      "attribute": "虚空",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-08-1013840.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "弗勒克斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013842.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/0P910552331.jpg",
+      "detailId": "67741",
+      "keywords": "F",
+      "id": "4920",
+      "attribute": "冰火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-08-1013839.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "天堂极龙兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013841.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/0P9102ND9.jpg",
+      "detailId": "77776",
+      "keywords": "T",
+      "id": "4921",
+      "attribute": "圣灵光",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-08-1013838.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "影行者",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013595.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2606/3014541U1Z.jpg",
@@ -8,9 +44,9 @@
       "keywords": "Y",
       "id": "4917",
       "attribute": "战斗暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "影猎截杀破",
       "source": "http://news.4399.com/seer/zenmezhua/202606-30-1013593.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "波比提尔",
@@ -20,9 +56,9 @@
       "keywords": "B",
       "id": "4918",
       "attribute": "水暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "真我觐见",
       "source": "http://news.4399.com/seer/zenmezhua/202606-30-1013592.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "若兰",
@@ -42013,5 +42049,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1783404917167
+  "timestamp": 1783488497822
 }
