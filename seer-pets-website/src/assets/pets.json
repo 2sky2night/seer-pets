@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "墟婆",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014031.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/141445159246.jpg",
+      "detailId": "100919",
+      "keywords": "X",
+      "id": "4922",
+      "attribute": "自然神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-14-1014029.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "莫缇",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014030.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/1414445035U.jpg",
+      "detailId": "2827",
+      "keywords": "M",
+      "id": "4923",
+      "attribute": "地面机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-14-1014028.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "卡鲁维德",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1013843.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2607/0P9112cV4.jpg",
@@ -8,9 +32,9 @@
       "keywords": "K",
       "id": "4919",
       "attribute": "虚空",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "崩灭极突刺",
       "source": "http://news.4399.com/seer/zenmezhua/202607-08-1013840.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "弗勒克斯",
@@ -20,9 +44,9 @@
       "keywords": "F",
       "id": "4920",
       "attribute": "冰火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "冰火破灭弹",
       "source": "http://news.4399.com/seer/zenmezhua/202607-08-1013839.html",
-      "raceValue": "暂无资料"
+      "raceValue": "725"
     },
     {
       "name": "天堂极龙兽",
@@ -32,9 +56,9 @@
       "keywords": "T",
       "id": "4921",
       "attribute": "圣灵光",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "八荒极龙赦",
       "source": "http://news.4399.com/seer/zenmezhua/202607-08-1013838.html",
-      "raceValue": "暂无资料"
+      "raceValue": "710"
     },
     {
       "name": "影行者",
@@ -42049,5 +42073,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1784005034022
+  "timestamp": 1784092003541
 }
