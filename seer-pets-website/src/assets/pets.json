@@ -1,6 +1,54 @@
 {
   "pets": [
     {
+      "name": "维克佐斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014357.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/301430546327.jpg",
+      "detailId": "93767",
+      "keywords": "W",
+      "id": "4928",
+      "attribute": "暗影火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-30-1014354.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "超级噗纽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014358.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/301421109516.jpg",
+      "detailId": "108798",
+      "keywords": "C",
+      "id": "4927 ",
+      "attribute": "草机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-30-1014353.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "酷酷鲨",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014201.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2607/220923561621.jpg",
+      "detailId": "107878",
+      "keywords": "K",
+      "id": "4926",
+      "attribute": "水神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-28-1014281.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "米罗博士",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014200.htm",
+      "img": "//newsimg.5054399.com/uploads/260722/_0925241Q.jpg",
+      "detailId": "2909",
+      "keywords": "M",
+      "id": "4925",
+      "attribute": "草超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202607-28-1014280.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "墟婆",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014031.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2607/141445159246.jpg",
@@ -10,7 +58,7 @@
       "attribute": "自然神秘",
       "proprietarySkill": "暂无资料",
       "source": "http://news.4399.com/seer/zenmezhua/202607-14-1014029.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "莫缇",
@@ -42073,5 +42121,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1785388498129
+  "timestamp": 1785476486122
 }
