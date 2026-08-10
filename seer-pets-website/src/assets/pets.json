@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "鬼地行者",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014457.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/04162U34054.jpg",
+      "detailId": "90194",
+      "keywords": "G",
+      "id": "4929",
+      "attribute": "混沌地面",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-04-1014454.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "帝皇铠甲",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014459.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/04162Rc4b.jpg",
+      "detailId": "52835",
+      "keywords": "D",
+      "id": "4930",
+      "attribute": "王",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-04-1014456.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "炎龙铠甲",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014458.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/04162P64421.jpg",
+      "detailId": "2964",
+      "keywords": "Y",
+      "id": "4931",
+      "attribute": "火龙",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-04-1014455.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "维克佐斯",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014357.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2607/301430546327.jpg",
@@ -8,9 +44,9 @@
       "keywords": "W",
       "id": "4928",
       "attribute": "暗影火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "思途执枉",
       "source": "http://news.4399.com/seer/zenmezhua/202607-30-1014354.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "超级噗纽",
@@ -20,9 +56,9 @@
       "keywords": "C",
       "id": "4927 ",
       "attribute": "草机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "噗纽舍身拳",
       "source": "http://news.4399.com/seer/zenmezhua/202607-30-1014353.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "酷酷鲨",
@@ -42121,5 +42157,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1786247295299
+  "timestamp": 1786334521313
 }
