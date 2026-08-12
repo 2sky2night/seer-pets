@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "刑天铠甲",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014636.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/1116205bT5.jpg",
+      "detailId": "43902",
+      "keywords": "X",
+      "id": "4934",
+      "attribute": "电次元",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014637.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "修罗铠甲",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014635.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/11162220L10.jpg",
+      "detailId": "77634",
+      "keywords": "X",
+      "id": "4933",
+      "attribute": "混沌圣灵",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014638.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "工程型TOH",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014634.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/111622513523.jpg",
+      "detailId": "2090",
+      "keywords": "G",
+      "id": " 4932",
+      "attribute": "机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014639.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "鬼地行者",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014457.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2608/04162U34054.jpg",
@@ -8,9 +44,9 @@
       "keywords": "G",
       "id": "4929",
       "attribute": "混沌地面",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "狂沙行者破",
       "source": "http://news.4399.com/seer/zenmezhua/202608-04-1014454.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "帝皇铠甲",
@@ -20,9 +56,9 @@
       "keywords": "D",
       "id": "4930",
       "attribute": "王",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "帝皇降魔歼灭斩",
       "source": "http://news.4399.com/seer/zenmezhua/202608-04-1014456.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "炎龙铠甲",
@@ -32,9 +68,9 @@
       "keywords": "Y",
       "id": "4931",
       "attribute": "火龙",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "封魔斩",
       "source": "http://news.4399.com/seer/zenmezhua/202608-04-1014455.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "维克佐斯",
@@ -42157,5 +42193,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1786420185056
+  "timestamp": 1786507995529
 }
