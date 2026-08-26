@@ -1,6 +1,66 @@
 {
   "pets": [
     {
+      "name": "决囚钢骨",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014918.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/2516332530T.jpg",
+      "detailId": "40423",
+      "keywords": "J",
+      "id": "4939",
+      "attribute": "机械次元",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-25-1014919.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "塞壬斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014917.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/251640051412.jpg",
+      "detailId": "6408",
+      "keywords": "S",
+      "id": "4938",
+      "attribute": "电暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-25-1014920.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "星光·雷纳多",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014916.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/2516392360W.jpg",
+      "detailId": "2090",
+      "keywords": "X",
+      "id": "4937",
+      "attribute": "机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-25-1014921.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "拿瓦铠甲",
+      "detailUrl": "https://news.4399.com/gonglue/seer/tujian/1014770.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/2011234QS6.jpg",
+      "detailId": "2823",
+      "keywords": "N",
+      "id": "4936 ",
+      "attribute": "战斗火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-18-1014768.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "苔岩·磐岳",
+      "detailUrl": "https://news.4399.com/gonglue/seer/tujian/1014769.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2608/201125392506.jpg",
+      "detailId": "2094",
+      "keywords": "T",
+      "id": "4935",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014640.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "刑天铠甲",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014636.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2608/1116205bT5.jpg",
@@ -8,9 +68,9 @@
       "keywords": "X",
       "id": "4934",
       "attribute": "电次元",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "刑天必杀术",
       "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014637.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "修罗铠甲",
@@ -20,7 +80,7 @@
       "keywords": "X",
       "id": "4933",
       "attribute": "混沌圣灵",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "神魔灭绝劈",
       "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014638.html",
       "raceValue": "暂无资料"
     },
@@ -30,9 +90,9 @@
       "img": "//newsimg.5054399.com/uploads/userup/2608/111622513523.jpg",
       "detailId": "2090",
       "keywords": "G",
-      "id": " 4932",
+      "id": "4932",
       "attribute": "机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "TH地基摇撼",
       "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014639.html",
       "raceValue": "暂无资料"
     },
@@ -128,7 +188,7 @@
       "keywords": "X",
       "id": "4922",
       "attribute": "自然神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "沧海铭刻",
       "source": "http://news.4399.com/seer/zenmezhua/202607-14-1014029.html",
       "raceValue": "735"
     },
@@ -140,9 +200,9 @@
       "keywords": "M",
       "id": "4923",
       "attribute": "地面机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "彼空都·蜃气楼",
       "source": "http://news.4399.com/seer/zenmezhua/202607-14-1014028.html",
-      "raceValue": "暂无资料"
+      "raceValue": "745"
     },
     {
       "name": "卡鲁维德",
@@ -42193,5 +42253,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1787627124941
+  "timestamp": 1787713918500
 }
