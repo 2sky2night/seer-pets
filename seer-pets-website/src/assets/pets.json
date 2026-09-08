@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "极度冰凌·阿克希亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015186.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2609/0Q420595Y2.jpg",
+      "detailId": "2092",
+      "keywords": "J",
+      "id": "4942",
+      "attribute": "冰雪",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-08-1015187.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "瑞丁",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015083.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2609/0310141T533.jpg",
+      "detailId": "62723",
+      "keywords": "R",
+      "id": "4941",
+      "attribute": "飞行暗影",
+      "proprietarySkill": "知识渗透压",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-02-1015084.html",
+      "raceValue": "700"
+    },
+    {
+      "name": "王座守卫·古亚尼斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015082.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2609/031012051616.jpg",
+      "detailId": "2095",
+      "keywords": "N",
+      "id": "4940",
+      "attribute": "电",
+      "proprietarySkill": "奔雷极光斩",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-02-1015085.html",
+      "raceValue": "740"
+    },
+    {
       "name": "决囚钢骨",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1014918.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2608/2516332530T.jpg",
@@ -8,9 +44,9 @@
       "keywords": "J",
       "id": "4939",
       "attribute": "机械次元",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "幽骸锁魂阵",
       "source": "http://news.4399.com/seer/zenmezhua/202608-25-1014919.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "塞壬斯",
@@ -20,9 +56,9 @@
       "keywords": "S",
       "id": "4938",
       "attribute": "电暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "强植自髓",
       "source": "http://news.4399.com/seer/zenmezhua/202608-25-1014920.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "星光·雷纳多",
@@ -32,9 +68,9 @@
       "keywords": "X",
       "id": "4937",
       "attribute": "机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "星光·魔动能量",
       "source": "http://news.4399.com/seer/zenmezhua/202608-25-1014921.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "拿瓦铠甲",
@@ -44,9 +80,9 @@
       "keywords": "N",
       "id": "4936 ",
       "attribute": "战斗火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "焰炬熔麟煞",
       "source": "http://news.4399.com/seer/zenmezhua/202608-18-1014768.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "苔岩·磐岳",
@@ -56,9 +92,9 @@
       "keywords": "T",
       "id": "4935",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "沙海芒芒",
       "source": "http://news.4399.com/seer/zenmezhua/202608-11-1014640.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "刑天铠甲",
@@ -42253,5 +42289,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1788765259619
+  "timestamp": 1788851386607
 }
