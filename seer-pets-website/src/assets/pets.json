@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "克律莎",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015319.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2609/151KI46442.jpg",
+      "detailId": "108952",
+      "keywords": "K",
+      "id": "4944",
+      "attribute": "远古电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-15-1015320.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "瑞特拉尼",
+      "detailUrl": "https://news.4399.com/gonglue/seer/tujian/1015318.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2609/151KQ3NY.jpg",
+      "detailId": "2094",
+      "keywords": "R",
+      "id": "4943",
+      "attribute": "地",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-15-1015321.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "极度冰凌·阿克希亚",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015186.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2609/0Q420595Y2.jpg",
@@ -8,9 +32,9 @@
       "keywords": "J",
       "id": "4942",
       "attribute": "冰雪",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "极度·忘川",
       "source": "http://news.4399.com/seer/zenmezhua/202609-08-1015187.html",
-      "raceValue": "暂无资料"
+      "raceValue": "750"
     },
     {
       "name": "瑞丁",
@@ -42289,5 +42313,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1789543982285
+  "timestamp": 1789630190879
 }
