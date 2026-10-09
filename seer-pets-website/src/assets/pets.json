@@ -1,6 +1,66 @@
 {
   "pets": [
     {
+      "name": "万霆神律·雷伊",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015580.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/091353222S4.jpg",
+      "detailId": "83823",
+      "keywords": "W",
+      "id": "4946",
+      "attribute": "圣灵电",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016014.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "米蒂欧",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015579.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/09134Pc605.jpg",
+      "detailId": "2991",
+      "keywords": "M",
+      "id": "2945",
+      "attribute": "地暗影",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016013.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "帝皇之戎",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015578.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/09133641V10.jpg",
+      "detailId": "29734",
+      "keywords": "D",
+      "id": "4950",
+      "attribute": "次元战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016012.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "镇世神岳·玄武",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015577.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/091159426095.jpg",
+      "detailId": "2827",
+      "keywords": "Z",
+      "id": "4995",
+      "attribute": "地面机械",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016011.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "不灭战魂·盖亚",
+      "detailUrl": "https://news.4399.com/gonglue/seer/tujian/1015581.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/091152395607.jpg",
+      "detailId": "48584",
+      "keywords": "B",
+      "id": "4947",
+      "attribute": "圣灵战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-09-1016127.html",
+      "raceValue": "790"
+    },
+    {
       "name": "克律莎",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015319.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2609/151KI46442.jpg",
@@ -8,9 +68,9 @@
       "keywords": "K",
       "id": "4944",
       "attribute": "远古电",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "万雷俯首令",
       "source": "http://news.4399.com/seer/zenmezhua/202609-15-1015320.html",
-      "raceValue": "暂无资料"
+      "raceValue": "715"
     },
     {
       "name": "瑞特拉尼",
@@ -20,9 +80,9 @@
       "keywords": "R",
       "id": "4943",
       "attribute": "地",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "乱石落土击",
       "source": "http://news.4399.com/seer/zenmezhua/202609-15-1015321.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "极度冰凌·阿克希亚",
@@ -42313,5 +42373,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1791449125133
+  "timestamp": 1791535751511
 }
