@@ -1,6 +1,78 @@
 {
   "pets": [
     {
+      "name": "神代·布布种子",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016192.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/1215515Tc2.jpg",
+      "detailId": "49380",
+      "keywords": "S",
+      "id": "4954",
+      "attribute": "远古草",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016164.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "神代·伊优",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016193.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/1216004553E.jpg",
+      "detailId": "109754",
+      "keywords": "S",
+      "id": "4953",
+      "attribute": "远古水",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-13-1016208.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "神代·小火猴",
+      "detailUrl": "https://news.4399.com/gonglue/seer/tujian/1016191.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/121542455N9.jpg",
+      "detailId": "44353",
+      "keywords": "S",
+      "id": "4952",
+      "attribute": "远古火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016163.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "维德弗尼尔",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016190.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/121541459521.jpg",
+      "detailId": "7024",
+      "keywords": "W",
+      "id": "4951",
+      "attribute": "飞行神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016162.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "焰朵朵",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016189.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/1215392QL7.jpg",
+      "detailId": "35076",
+      "keywords": "Y",
+      "id": "4949",
+      "attribute": "光火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016161.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "亚巴兰托",
+      "detailUrl": "https://news.4399.com/gonglue/seer/tujian/1016188.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/12153GX5Y.jpg",
+      "detailId": "2823",
+      "keywords": "Y",
+      "id": " 4948",
+      "attribute": "战斗火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016160.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "万霆神律·雷伊",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1015580.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2610/091353222S4.jpg",
@@ -18,7 +90,7 @@
       "img": "//newsimg.5054399.com/uploads/userup/2610/09134Pc605.jpg",
       "detailId": "2991",
       "keywords": "M",
-      "id": "2945",
+      "id": "4945",
       "attribute": "地暗影",
       "proprietarySkill": "暂无资料",
       "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016013.html",
@@ -42373,5 +42445,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1791795598087
+  "timestamp": 1791882871066
 }
