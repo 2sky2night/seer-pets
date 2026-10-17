@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "珀萝",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016258.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/151110225c2.jpg",
+      "detailId": "17545",
+      "keywords": "P",
+      "id": "4955",
+      "attribute": "暗影圣灵",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-14-1016256.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "霍努努",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016257.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/15111050B00.jpg",
+      "detailId": "34399",
+      "keywords": "H",
+      "id": "4955",
+      "attribute": "水战斗",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-14-1016255.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "神代·布布种子",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016192.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2610/1215515Tc2.jpg",
@@ -8,9 +32,9 @@
       "keywords": "S",
       "id": "4954",
       "attribute": "远古草",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "神代·舍身撞击",
       "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016164.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "神代·伊优",
@@ -20,9 +44,9 @@
       "keywords": "S",
       "id": "4953",
       "attribute": "远古水",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "神代·巨龙之击",
       "source": "http://news.4399.com/seer/zenmezhua/202610-13-1016208.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "神代·小火猴",
@@ -32,9 +56,9 @@
       "keywords": "S",
       "id": "4952",
       "attribute": "远古火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "神代·灵绝击",
       "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016163.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "维德弗尼尔",
@@ -44,9 +68,9 @@
       "keywords": "W",
       "id": "4951",
       "attribute": "飞行神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "秘术疾风击",
       "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016162.html",
-      "raceValue": "暂无资料"
+      "raceValue": "740"
     },
     {
       "name": "焰朵朵",
@@ -56,9 +80,9 @@
       "keywords": "Y",
       "id": "4949",
       "attribute": "光火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "至高的喝彩",
       "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016161.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "亚巴兰托",
@@ -68,9 +92,9 @@
       "keywords": "Y",
       "id": " 4948",
       "attribute": "战斗火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "灵火焚诀",
       "source": "http://news.4399.com/seer/zenmezhua/202610-10-1016160.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "万霆神律·雷伊",
@@ -42445,5 +42469,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1792133926702
+  "timestamp": 1792219735105
 }
