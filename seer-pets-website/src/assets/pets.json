@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "铸元正鼎",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016378.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/211619241302.jpg",
+      "detailId": "37239",
+      "keywords": "Z",
+      "id": "4959",
+      "attribute": "远古神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-20-1016341.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "灵釉花口瓶",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016377.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/21161R054J.jpg",
+      "detailId": "3037",
+      "keywords": "L",
+      "id": "4958",
+      "attribute": "水超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-20-1016340.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "凯亚",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016376.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/21161635bV.jpg",
+      "detailId": "49381",
+      "keywords": "K",
+      "id": "4957",
+      "attribute": "光超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-20-1016339.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "珀萝",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016258.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2610/151110225c2.jpg",
@@ -8,9 +44,9 @@
       "keywords": "P",
       "id": "4955",
       "attribute": "暗影圣灵",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "纸帷幕·诡叙使",
       "source": "http://news.4399.com/seer/zenmezhua/202610-14-1016256.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "霍努努",
@@ -20,9 +56,9 @@
       "keywords": "H",
       "id": "4955",
       "attribute": "水战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "碧水映星天",
       "source": "http://news.4399.com/seer/zenmezhua/202610-14-1016255.html",
-      "raceValue": "暂无资料"
+      "raceValue": "745"
     },
     {
       "name": "神代·布布种子",
@@ -104,9 +140,9 @@
       "keywords": "W",
       "id": "4946",
       "attribute": "圣灵电",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "雷·神天明闪",
       "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016014.html",
-      "raceValue": "暂无资料"
+      "raceValue": "790"
     },
     {
       "name": "米蒂欧",
@@ -128,9 +164,9 @@
       "keywords": "D",
       "id": "4950",
       "attribute": "次元战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "群辰·万煌戎行",
       "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016012.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "镇世神岳·玄武",
@@ -152,7 +188,7 @@
       "keywords": "B",
       "id": "4947",
       "attribute": "圣灵战斗",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "战·神破天闪",
       "source": "http://news.4399.com/seer/zenmezhua/202610-09-1016127.html",
       "raceValue": "790"
     },
@@ -42469,5 +42505,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1792567466787
+  "timestamp": 1792653885539
 }
