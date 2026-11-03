@@ -1,6 +1,90 @@
 {
   "pets": [
     {
+      "name": "圣光灵神SP",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016610.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2611/0316450E237.jpg",
+      "detailId": "34400",
+      "keywords": "S",
+      "id": "3311",
+      "attribute": "圣灵远古",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202611-03-1016609.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "伊娜",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016611.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2611/031644494H0.jpg",
+      "detailId": "9470",
+      "keywords": "Y",
+      "id": "4964",
+      "attribute": "地面超能",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202611-03-1016608.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "瑟尼瑟斯",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016500.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/2QK4444347.jpg",
+      "detailId": "62723",
+      "keywords": "S",
+      "id": "4924",
+      "attribute": "飞行暗影",
+      "proprietarySkill": "触手可及",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-28-1016501.html",
+      "raceValue": "725"
+    },
+    {
+      "name": "云舆瑞兽",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016499.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/2QK3503591.jpg",
+      "detailId": "51703",
+      "keywords": "Y",
+      "id": "4963",
+      "attribute": "自然龙",
+      "proprietarySkill": "天门跃",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-28-1016502.html",
+      "raceValue": "745"
+    },
+    {
+      "name": "中原号",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016497.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/2QK23cE8.jpg",
+      "detailId": "109425",
+      "keywords": "Z",
+      "id": "4962",
+      "attribute": "远古机械",
+      "proprietarySkill": "中原斩魔剑",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-28-1016503.html",
+      "raceValue": "745"
+    },
+    {
+      "name": "赤彩焰驹",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016496.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/2QK1245a6.jpg",
+      "detailId": "2864",
+      "keywords": "C",
+      "id": "4961",
+      "attribute": "火超能",
+      "proprietarySkill": "踏焰来",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-28-1016504.html",
+      "raceValue": "700"
+    },
+    {
+      "name": "塔尼瓦",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016495.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2610/2QK03Y420.jpg",
+      "detailId": "43494",
+      "keywords": "T",
+      "id": "4960",
+      "attribute": "战斗龙",
+      "proprietarySkill": "战翼天鳞裂",
+      "source": "http://news.4399.com/seer/zenmezhua/202610-28-1016505.html",
+      "raceValue": "735"
+    },
+    {
       "name": "铸元正鼎",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016378.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2610/211619241302.jpg",
@@ -8,9 +92,9 @@
       "keywords": "Z",
       "id": "4959",
       "attribute": "远古神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "铭千古",
       "source": "http://news.4399.com/seer/zenmezhua/202610-20-1016341.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "灵釉花口瓶",
@@ -20,9 +104,9 @@
       "keywords": "L",
       "id": "4958",
       "attribute": "水超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "瓶中海",
       "source": "http://news.4399.com/seer/zenmezhua/202610-20-1016340.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "凯亚",
@@ -32,9 +116,9 @@
       "keywords": "K",
       "id": "4957",
       "attribute": "光超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "拉卡伊呼唤",
       "source": "http://news.4399.com/seer/zenmezhua/202610-20-1016339.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "珀萝",
@@ -152,9 +236,9 @@
       "keywords": "M",
       "id": "4945",
       "attribute": "地暗影",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "地岩暗能击",
       "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016013.html",
-      "raceValue": "暂无资料"
+      "raceValue": "720"
     },
     {
       "name": "帝皇之戎",
@@ -176,9 +260,9 @@
       "keywords": "Z",
       "id": "4995",
       "attribute": "地面机械",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "帕诺·七星阵列",
       "source": "http://news.4399.com/seer/zenmezhua/202609-30-1016011.html",
-      "raceValue": "暂无资料"
+      "raceValue": "650"
     },
     {
       "name": "不灭战魂·盖亚",
@@ -42505,5 +42589,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1793610868750
+  "timestamp": 1793697608706
 }
