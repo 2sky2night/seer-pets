@@ -1,6 +1,42 @@
 {
   "pets": [
     {
+      "name": "米铃",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016718.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2611/101K240X48.jpg",
+      "detailId": "7024",
+      "keywords": "M",
+      "id": "4967",
+      "attribute": "飞行神秘",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202611-10-1016717.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "普卡",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016719.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2611/101K22555G.jpg",
+      "detailId": "5244",
+      "keywords": "P",
+      "id": "4966",
+      "attribute": "次元",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202611-10-1016716.html",
+      "raceValue": "暂无资料"
+    },
+    {
+      "name": "沙罗摩奥",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016720.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2611/101K213O63.jpg",
+      "detailId": "93767",
+      "keywords": "S",
+      "id": "4965",
+      "attribute": "暗影火",
+      "proprietarySkill": "暂无资料",
+      "source": "http://news.4399.com/seer/zenmezhua/202611-10-1016715.html",
+      "raceValue": "暂无资料"
+    },
+    {
       "name": "圣光灵神SP",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016610.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2611/0316450E237.jpg",
@@ -8,9 +44,9 @@
       "keywords": "S",
       "id": "3311",
       "attribute": "圣灵远古",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "神念净世斩",
       "source": "http://news.4399.com/seer/zenmezhua/202611-03-1016609.html",
-      "raceValue": "暂无资料"
+      "raceValue": "760"
     },
     {
       "name": "伊娜",
@@ -20,9 +56,9 @@
       "keywords": "Y",
       "id": "4964",
       "attribute": "地面超能",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "阿卡伊守候",
       "source": "http://news.4399.com/seer/zenmezhua/202611-03-1016608.html",
-      "raceValue": "暂无资料"
+      "raceValue": "735"
     },
     {
       "name": "瑟尼瑟斯",
@@ -42589,5 +42625,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1794303276209
+  "timestamp": 1794388187730
 }
