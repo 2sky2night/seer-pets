@@ -1,6 +1,30 @@
 {
   "pets": [
     {
+      "name": "米玲娜",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016882.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2611/231033593222.jpg",
+      "detailId": "7024",
+      "keywords": "M",
+      "id": "4969",
+      "attribute": "飞行神秘",
+      "proprietarySkill": "步延星空",
+      "source": "http://news.4399.com/seer/zenmezhua/202611-23-1016883.html",
+      "raceValue": "745"
+    },
+    {
+      "name": "瓦坎",
+      "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016881.htm",
+      "img": "//newsimg.5054399.com/uploads/userup/2611/2310320R629.jpg",
+      "detailId": "29724",
+      "keywords": "W",
+      "id": "4968",
+      "attribute": "神秘战斗",
+      "proprietarySkill": "阿卡伊狂欢",
+      "source": "http://news.4399.com/seer/zenmezhua/202611-23-1016884.html",
+      "raceValue": "10509"
+    },
+    {
       "name": "米铃",
       "detailUrl": "http://news.4399.com/gonglue/seer/tujian/1016718.htm",
       "img": "//newsimg.5054399.com/uploads/userup/2611/101K240X48.jpg",
@@ -8,9 +32,9 @@
       "keywords": "M",
       "id": "4967",
       "attribute": "飞行神秘",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "时间漫旅",
       "source": "http://news.4399.com/seer/zenmezhua/202611-10-1016717.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "普卡",
@@ -20,9 +44,9 @@
       "keywords": "P",
       "id": "4966",
       "attribute": "次元",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "空盈幻光",
       "source": "http://news.4399.com/seer/zenmezhua/202611-10-1016716.html",
-      "raceValue": "暂无资料"
+      "raceValue": "700"
     },
     {
       "name": "沙罗摩奥",
@@ -32,9 +56,9 @@
       "keywords": "S",
       "id": "4965",
       "attribute": "暗影火",
-      "proprietarySkill": "暂无资料",
+      "proprietarySkill": "翻腾之震怒",
       "source": "http://news.4399.com/seer/zenmezhua/202611-10-1016715.html",
-      "raceValue": "暂无资料"
+      "raceValue": "598"
     },
     {
       "name": "圣光灵神SP",
@@ -42625,5 +42649,5 @@
       "raceValue": "568"
     }
   ],
-  "timestamp": 1795340201548
+  "timestamp": 1795430080416
 }
